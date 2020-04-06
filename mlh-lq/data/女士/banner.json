@@ -1,0 +1,21 @@
+{
+    "homePageImg": "",
+    "linkUrl": "",
+    "errorInfo": "",
+    "errorNum": "0",
+    "banners": [
+        {
+            "id": "2068000100000000391",
+            "name": "H5跨境",
+            "main_title": "BURBERRY",
+            "sub_title": "明星街拍独爱TA",
+            "description": "全场 5.1折",
+            "main_image": "http://cdn13.mei.com/category/20181024/7abbfbe23f8df872223b5226dc14234b071407a2f321be85.jpg",
+            "label_image": "",
+            "short_image": "",
+            "link_url": "http://www.mei.com/brand/3616200100000000304",
+            "banner_type_code": "BANNER_TYPE_FULLNEW",
+            "banner_type_name": "全新图"
+        }
+    ]
+}

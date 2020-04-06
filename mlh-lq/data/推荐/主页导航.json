@@ -1,0 +1,46 @@
+{
+    "errorInfo": "",
+    "errorNum": "0",
+    "lists": [
+        {
+            "categoryId": "2013000100000000000",
+            "urlKey": "",
+            "name": "推荐"
+        },
+        {
+            "categoryId": "2013000100000000011",
+            "urlKey": "",
+            "name": "海外"
+        },
+        {
+            "categoryId": "2013000100000000001",
+            "urlKey": "",
+            "name": "女士"
+        },
+        {
+            "categoryId": "2013000100000000002",
+            "urlKey": "",
+            "name": "男士"
+        },
+        {
+            "categoryId": "2013000100000000003",
+            "urlKey": "",
+            "name": "美妆"
+        },
+        {
+            "categoryId": "2013000100000000004",
+            "urlKey": "",
+            "name": "家居"
+        },
+        {
+            "categoryId": "2013000100000000005",
+            "urlKey": "",
+            "name": "婴童"
+        },
+        {
+            "categoryId": "2013000100000000006",
+            "urlKey": "",
+            "name": "即将上新"
+        }
+    ]
+}

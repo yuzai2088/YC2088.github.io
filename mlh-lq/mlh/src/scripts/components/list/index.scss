@@ -1,0 +1,71 @@
+.goodlist{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 0.3rem;
+    overflow: hidden;
+    .banner{
+        width: 100%;
+        height:9rem;
+        // background: pink;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 0.2rem;
+        .content{
+            width: 100%;
+            height: 30%;
+            position: absolute;
+            bottom: .625rem;
+            text-align: center;
+            color: white;
+            h2{
+                margin-bottom:0.2rem;
+            }
+        }
+        img{
+            width: 100%;
+            height:100%;
+        }
+        
+    }
+    .newevent{
+        padding:0.1rem 0.1rem;
+        .today{
+            margin-bottom: 0.3rem;
+            display: flex;
+            span{
+                font-size: 25px;
+                margin-right: 0.2rem;
+                color: black;
+            }
+            p{
+                font-size: 13px;
+                color: rgb(61, 59, 59);
+            }
+        }
+        .product{
+            width: 100%;
+            height: 4.5rem;
+            margin:0.3rem 0 ;
+            background: pink;
+            position: relative;
+            img{
+                width: 100%;
+                height: 100%;
+            }
+            .context{
+                position: absolute;
+                bottom:0.2rem ;
+                left: 0.2rem;
+                line-height: 0.3rem;
+                h2{
+                    font-size: 20px;
+                    margin-bottom: 0.1rem;
+                    color: white;
+                }
+                p{
+                    color: white;
+                }
+            }
+        }
+    }
+}

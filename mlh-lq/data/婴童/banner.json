@@ -1,0 +1,21 @@
+{
+    "homePageImg": "",
+    "linkUrl": "",
+    "errorInfo": "",
+    "errorNum": "0",
+    "banners": [
+        {
+            "id": "2068000100000000257",
+            "name": "JACADI 法式优雅童装秋季专场",
+            "main_title": "JACADI",
+            "sub_title": "法式优雅童装秋季专场",
+            "description": "3.5折起",
+            "main_image": "http://cdn13.mei.com/category/20180930/57dfece118107294128fb90e060e9745d4fa53a986efd91b.jpg",
+            "label_image": "",
+            "short_image": "",
+            "link_url": "http://www.mei.com/brand/3616200100000001326",
+            "banner_type_code": "BANNER_TYPE_FULLNEW",
+            "banner_type_name": "全新图"
+        }
+    ]
+}

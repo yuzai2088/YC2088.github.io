@@ -1,0 +1,63 @@
+{
+    "errorInfo": "",
+    "errorNum": "0",
+    "resultList": [
+        {
+            "id": "2042000100000000431",
+            "contentType": "1",
+            "title": "分类入口",
+            "data": [
+                {
+                    "siloId": "2013000100000000003",
+                    "categoryOneId": "1000000369",
+                    "categoryOneName": "面膜",
+                    "categoryTwoId": "1192201704011110024",
+                    "categroyTwoName": "面膜",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn15.mei.com/category/20180801/142ca198982dcad77f2c1634148d1dbd25aecd78fee7fcaf.jpg@150w_200h_2e_75q"
+                },
+                {
+                    "siloId": "2013000100000000003",
+                    "categoryOneId": "1000000345",
+                    "categoryOneName": "护肤",
+                    "categoryTwoId": "1000000276",
+                    "categroyTwoName": "乳液面霜",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn12.mei.com/category/20180801/142ca198982dcad734e44500f62e7f66dc0bc45b7bb6d783.jpg@150w_200h_2e_75q"
+                },
+                {
+                    "siloId": "2013000100000000003",
+                    "categoryOneId": "1000000346",
+                    "categoryOneName": "彩妆",
+                    "categoryTwoId": "1000000285",
+                    "categroyTwoName": "唇部彩妆",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn15.mei.com/category/20180801/142ca198982dcad74a63048d267199d825aecd78fee7fcaf.jpg@150w_200h_2e_75q"
+                },
+                {
+                    "siloId": "2013000100000000003",
+                    "categoryOneId": "1192007900000000260",
+                    "categoryOneName": "洗发",
+                    "categoryTwoId": "1192201704011110019",
+                    "categroyTwoName": "洗发",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn15.mei.com/category/20180801/142ca198982dcad76541abfd119dfe9f071407a2f321be85.jpg@150w_200h_2e_75q"
+                },
+                {
+                    "siloId": "2013000100000000003",
+                    "categoryOneId": "1000000345",
+                    "categoryOneName": "护肤",
+                    "categoryTwoId": "1192201704011110067",
+                    "categroyTwoName": "防晒",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn12.mei.com/category/20180801/142ca198982dcad717087a9209b5d1f01ac47f6e1a03bdfe.jpg@150w_200h_2e_75q"
+                }
+            ]
+        }
+    ]
+}

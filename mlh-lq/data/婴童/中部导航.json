@@ -1,0 +1,63 @@
+{
+    "errorInfo": "",
+    "errorNum": "0",
+    "resultList": [
+        {
+            "id": "2120000100000000146",
+            "contentType": "1",
+            "title": "婴童分类",
+            "data": [
+                {
+                    "siloId": "2013000100000000005",
+                    "categoryOneId": "1000000359",
+                    "categoryOneName": "服装",
+                    "categoryTwoId": "1000000380",
+                    "categroyTwoName": "T恤",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn13.mei.com/category/20180521/67cae450151bb0857f226b91ed48b73e25aecd78fee7fcaf.jpg@150w_200h_2e_75q"
+                },
+                {
+                    "siloId": "2013000100000000005",
+                    "categoryOneId": "1000000359",
+                    "categoryOneName": "服装",
+                    "categoryTwoId": "1000000323",
+                    "categroyTwoName": "裤子",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn14.mei.com/category/20180521/67cae450151bb0859757e71166b8be9d071407a2f321be85.jpg@150w_200h_2e_75q"
+                },
+                {
+                    "siloId": "2013000100000000005",
+                    "categoryOneId": "1000000359",
+                    "categoryOneName": "服装",
+                    "categoryTwoId": "1000000376",
+                    "categroyTwoName": "连衣裙",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn13.mei.com/category/20180521/67cae450151bb085cca0d87bc3ebc8d478124244265805bc.jpg@150w_200h_2e_75q"
+                },
+                {
+                    "siloId": "2013000100000000005",
+                    "categoryOneId": "1000000360",
+                    "categoryOneName": "凉鞋/拖鞋",
+                    "categoryTwoId": "1192201704011110008",
+                    "categroyTwoName": "凉鞋/拖鞋",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn12.mei.com/category/20180521/67cae450151bb085290bc7643e50f14cdc0bc45b7bb6d783.jpg@150w_200h_2e_75q"
+                },
+                {
+                    "siloId": "2013000100000000005",
+                    "categoryOneId": "1000000361",
+                    "categoryOneName": "玩具文具",
+                    "categoryTwoId": "1000000331",
+                    "categroyTwoName": "玩具",
+                    "categoryThreeId": "",
+                    "categoryThreeName": "",
+                    "categoryImgStr": "https://cdn13.mei.com/category/20180521/67cae450151bb0850a9cee192320a44ddc0bc45b7bb6d783.jpg@150w_200h_2e_75q"
+                }
+            ]
+        }
+    ]
+}

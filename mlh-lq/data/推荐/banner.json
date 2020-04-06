@@ -1,0 +1,21 @@
+{
+    "homePageImg": "",
+    "linkUrl": "",
+    "errorInfo": "",
+    "errorNum": "0",
+    "banners": [
+        {
+            "id": "2068000100000000399",
+            "name": "H5首页",
+            "main_title": "FERRAGAMO",
+            "sub_title": "众型绮聚 菲式贵族",
+            "description": "",
+            "main_image": "http://cdn13.mei.com/category/20181204/849aaeb0d2c4166a04ebf2a0f49db32fd4fa53a986efd91b.jpg",
+            "label_image": "",
+            "short_image": "",
+            "link_url": "http://www.mei.com/brand/3616200100000000853",
+            "banner_type_code": "BANNER_TYPE_FULLNEW",
+            "banner_type_name": "全新图"
+        }
+    ]
+}

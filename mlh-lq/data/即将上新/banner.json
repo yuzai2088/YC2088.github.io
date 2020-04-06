@@ -1,0 +1,47 @@
+{
+    "userIP": "119.79.228.23",
+    "errorInfo": "",
+    "totalCount": 1,
+    "errorNum": "0",
+    "listType":"即将上新",
+    "tips": "订阅您喜欢的品牌，我们将在活动当天提醒您！",
+    "lists": [
+        {
+            "title": "即将开售",
+            "launchTime": "1578186000",
+            "launchDay": "",
+            "events": [
+                {
+                    "categoryId": "2041204190000007537",
+                    "eventId": "2041204190000007537",
+                    "englishName": "THOM BROWNE&MONTBLANC等品牌",
+                    "chineseName": "引领时尚潮流",
+                    "discount": "6.5折",
+                    "imgUrl": "https://cdn14.mei.com/category/20200103/8a4efa675c041e9511d8920db1d2faeb071407a2f321be85.jpg@600w_560h_2e_75q",
+                    "imagePcUrl": "https://cdn14.mei.com/category/20200103/8a4efa675c041e9511d8920db1d2faeb071407a2f321be85.jpg@600w_560h_2e_75q",
+                    "enablePreview": "1",
+                    "isPhone": "0",
+                    "upcomingHour": "",
+                    "upcomingTime": "",
+                    "subscribe": "0",
+                    "eventCode": "",
+                    "urlkey": "",
+                    "startDate": "2020-01-05 09:00:00",
+                    "isBazzer": "1",
+                    "isCrossBorder": "0",
+                    "isSeasonNew": "0",
+                    "isOverseasend": "",
+                    "spm_b": "13865123",
+                    "products": [],
+                    "totalCount": 0,
+                    "block_status": 0,
+                    "isHKBlock": 0,
+                    "imageTmallUrl": "https://cdn12.mei.com/category/20200103/8a4efa675c041e953313a2737a1c19c8d4fa53a986efd91b.jpg",
+                    "siloEn": "",
+                    "eventBanner": "https://cdn15.mei.com/category/20200103/8a4efa675c041e9576991e3efc63d6ddd4fa53a986efd91b.jpg@600w_560h_2e_75q",
+                    "tagListDto": ""
+                }
+            ]
+        }
+    ]
+}

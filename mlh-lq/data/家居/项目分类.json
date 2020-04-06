@@ -1,0 +1,17 @@
+{
+    "errorInfo": "",
+    "errorNum": "0",
+    "resultList": [
+        {
+            "id": "2121000100000000291",
+            "contentType": "3",
+            "title": "类目分类",
+            "data": [
+                {
+                    "imageUrl": "https://cdn13.mei.com/category/20180621/a789fab3fbc384262a0a542c5ae8ca0ae15d3cf3671d4998.jpg",
+                    "imageJson": "[{\"x\":-22.54797441364603,\"y\":1.9275053304904048,\"width\":400.50319829424313,\"height\":227.63837953091686,\"rotate\":0,\"scaleX\":1,\"scaleY\":1,\"naturalHeight\":452,\"naturalWidth\":750,\"url\":\"http://www.mei.com/productlist?siloEn=lifestyle&eventCode=2042204290000003094\"},{\"x\":372.04477611940285,\"y\":0,\"width\":400.50319829424313,\"height\":227.63837953091686,\"rotate\":0,\"scaleX\":1,\"scaleY\":1,\"naturalHeight\":452,\"naturalWidth\":750,\"url\":\"http://www.mei.com/productlist?siloEn=lifestyle&eventCode=2041204190000003419\"},{\"x\":-22.54797441364603,\"y\":224.36162046908308,\"width\":400.50319829424313,\"height\":227.63837953091686,\"rotate\":0,\"scaleX\":1,\"scaleY\":1,\"naturalHeight\":452,\"naturalWidth\":750,\"url\":\"http://www.mei.com/productlist?siloEn=lifestyle&eventCode=2120005100000000029\"},{\"x\":372.04477611940285,\"y\":215.68784648187628,\"width\":400.50319829424313,\"height\":227.63837953091686,\"rotate\":0,\"scaleX\":1,\"scaleY\":1,\"naturalHeight\":452,\"naturalWidth\":750,\"url\":\"http://www.mei.com/productlist?siloEn=lifestyle&eventCode=2042204290000004652\"}]"
+                }
+            ]
+        }
+    ]
+}

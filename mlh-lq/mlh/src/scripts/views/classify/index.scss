@@ -1,0 +1,58 @@
+$top-color:white;
+.c-box,
+.c-man {
+    width: 100%;
+    height: 100%;
+    background: white;
+}
+
+  .class-top{
+      width: 100%;
+      height: 1.1rem;
+      display: flex;
+      justify-content:space-between;
+      align-items: center;
+      padding: 0 0.5rem;
+      box-sizing: border-box;
+      background: $top-color;
+      .tou{
+        width: 0.6rem;
+        height: 0.6rem;
+        background: rgb(216, 211, 213);
+        border-radius: 50%;
+        text-align: center;
+        line-height:0.6rem ;
+        .iconfont{
+            font-size: 25px;
+            color: #999;
+        }
+      }
+      .iconfont{
+          font-size: 30px;
+          color: rgb(98, 57, 57);
+          font-weight: 100;
+      }
+      .inp{
+        width: 70%;
+        height: 55%;
+        background: $top-color;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #999;
+        input{
+            border: 0;
+            height: 100%;
+            outline: none;
+            text-indent: 18px;
+        }
+        .iconfont{
+            font-weight:border;
+            color: #999;
+        }
+   
+      }
+  }
+
+
+  

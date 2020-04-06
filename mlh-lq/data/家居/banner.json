@@ -1,0 +1,21 @@
+{
+    "homePageImg": "",
+    "linkUrl": "",
+    "errorInfo": "",
+    "errorNum": "0",
+    "banners": [
+        {
+            "id": "2068000100000000244",
+            "name": "FRETTE 意大利奢华床品",
+            "main_title": "FRETTE",
+            "sub_title": "意大利奢华床品",
+            "description": "1.5折起",
+            "main_image": "http://cdn13.mei.com/category/20180929/27de9e350d14edbc95f948c7b3ec426025aecd78fee7fcaf.jpg",
+            "label_image": "",
+            "short_image": "",
+            "link_url": "http://www.mei.com/brand/3616200100000001248",
+            "banner_type_code": "BANNER_TYPE_FULLNEW",
+            "banner_type_name": "全新图"
+        }
+    ]
+}

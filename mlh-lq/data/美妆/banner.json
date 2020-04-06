@@ -1,0 +1,21 @@
+{
+    "homePageImg": "",
+    "linkUrl": "",
+    "errorInfo": "",
+    "errorNum": "0",
+    "banners": [
+        {
+            "id": "2068000100000000429",
+            "name": "化妆水",
+            "main_title": "打造健康肌底",
+            "sub_title": "从化妆水开始",
+            "description": "全场3.4折起",
+            "main_image": "http://cdn13.mei.com/category/20181027/d0de04c21e26224e25e18969b9c6784925aecd78fee7fcaf.jpg",
+            "label_image": "",
+            "short_image": "",
+            "link_url": "http://www.mei.com/search?q=%E4%B8%AA%E6%8A%A4%E7%BE%8E%E5%A6%86%20%E5%8C%96%E5%A6%86%E6%B0%B4&third",
+            "banner_type_code": "BANNER_TYPE_FULLNEW",
+            "banner_type_name": "全新图"
+        }
+    ]
+}

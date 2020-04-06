@@ -1,0 +1,1452 @@
+{
+    "spmBPoint": "13510477",
+    "siloCategory": "女士",
+    "appSpecialLink": "",
+    "errorInfo": "",
+    "errorNum": "0",
+    "sizeShowLimit": "2",
+    "promotions": {
+        "type": "2",
+        "ruleType": "",
+        "info": "满688元全场免运;"
+    },
+    "endTime": "1586199600",
+    "brandName": "",
+    "shareContent": {
+        "shareInfo": "秋冬新品毛衫衣橱 1折起 更有新会员大礼！",
+        "shareTag": "@魅力惠GlamourSales",
+        "shareImage": "https://cdn14.mei.com/category/20191025/3046a2bf3f7b361c6d18b36674ae5f02ce6dc3676f54cd06.jpg@640w_326h_2e_75q",
+        "shareLinkWx": "http://www.mei.com/productlist?URLKey=2040204090000007382-event&siloEn=women&eventCode=44391&utm_source=mgm_app_wx&utm_medium=mgm&utm_content=event_page",
+        "shareLinkWxcircle": "http://www.mei.com/productlist?URLKey=2040204090000007382-event&siloEn=women&eventCode=44391&utm_source=mgm_app_wxcircle&utm_medium=mgm&utm_content=event_page",
+        "shareLinkWb": "http://www.mei.com/productlist?URLKey=2040204090000007382-event&siloEn=women&eventCode=44391&utm_source=mgm_app_wb&utm_medium=mgm&utm_content=event_page"
+    },
+    "brandStory": "",
+    "startTime": "1577959200",
+    "products": [
+        {
+            "productId": "2121212199000125913",
+            "productName": "姜黄色花边高领女士秋冬长袖针织毛衣",
+            "product_type": "Configurable",
+            "brandName": "ISABELLA BY PORTS",
+            "glsCode": "IXV-154-00085",
+            "price": "549",
+            "marketPrice": "2500",
+            "imageUrl": "https://cdn14.mei.com/product/IXV-154-00087/8d64e483014f93f061fe129b7755e060.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "1",
+            "saleableQty": "7",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "549",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [
+                {
+                    "tag": "买手推荐",
+                    "isHasExpiration": "0",
+                    "beginDate": "",
+                    "endDate": "",
+                    "image": "",
+                    "fontColor": "000000",
+                    "fontBackgroudColor": "FFFFFF",
+                    "frameColor": "000000",
+                    "isRadius": 0,
+                    "isGradient": 0,
+                    "beginColor": "",
+                    "endColor": ""
+                }
+            ],
+            "productSizes": [
+                {
+                    "id": "2121212199000125918",
+                    "size": "XS",
+                    "qty": 2
+                },
+                {
+                    "id": "2121212199000125916",
+                    "size": "S",
+                    "qty": 3
+                },
+                {
+                    "id": "2121212199000125914",
+                    "size": "L",
+                    "qty": 1
+                },
+                {
+                    "id": "2121212199000125917",
+                    "size": "XL",
+                    "qty": 1
+                }
+            ]
+        },
+        {
+            "productId": "2121212199000051459",
+            "productName": "米白色肩部拼接女士上衣",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "TS8-154-01274",
+            "price": "569",
+            "marketPrice": "2599",
+            "imageUrl": "https://cdn13.mei.com/product/TS8-154-01276/833b54622b8bd8e6851818815a7b8f10.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "331",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "569",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2121212199000051464",
+                    "size": "XS",
+                    "qty": 1
+                },
+                {
+                    "id": "2121212199000051462",
+                    "size": "S",
+                    "qty": 70
+                },
+                {
+                    "id": "2121212199000051461",
+                    "size": "M",
+                    "qty": 101
+                },
+                {
+                    "id": "2121212199000051460",
+                    "size": "L",
+                    "qty": 119
+                },
+                {
+                    "id": "2121212199000051463",
+                    "size": "XL",
+                    "qty": 40
+                }
+            ]
+        },
+        {
+            "productId": "2120212099000159842",
+            "productName": "玫红色桑蚕丝条纹中长款女士针织开衫",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "TS8-154-01655",
+            "price": "789",
+            "marketPrice": "3699",
+            "imageUrl": "https://cdn15.mei.com/product/TS8-154-01657/833b54622b8bd8e6b26244e88cb1d98e.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "326",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "789",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2120212099000159845",
+                    "size": "S",
+                    "qty": 130
+                },
+                {
+                    "id": "2120212099000159844",
+                    "size": "M",
+                    "qty": 185
+                },
+                {
+                    "id": "2120212099000159843",
+                    "size": "L",
+                    "qty": 11
+                }
+            ]
+        },
+        {
+            "productId": "2018201899000054072",
+            "productName": "Ports/宝姿米白色拼接女士秋冬长袖中长针织开衫羊毛衫",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "PS2-116-100005-C",
+            "price": "909",
+            "marketPrice": "4299",
+            "imageUrl": "https://cdn13.mei.com/product/PS2-116-100005-C/fb0296da00f372b791d19caf20aff4dad4996fc790fcf3054d530478b0e553ae.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "244",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "909",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2021202199000019745",
+                    "size": "XS",
+                    "qty": 12
+                },
+                {
+                    "id": "2017201799000018515",
+                    "size": "S",
+                    "qty": 61
+                },
+                {
+                    "id": "2086208699000014555",
+                    "size": "M",
+                    "qty": 75
+                },
+                {
+                    "id": "2084208499000014942",
+                    "size": "L",
+                    "qty": 80
+                },
+                {
+                    "id": "2018201899000050347",
+                    "size": "XL",
+                    "qty": 16
+                }
+            ]
+        },
+        {
+            "productId": "2121212199000030150",
+            "productName": "粉橘色扭结钻饰长袖针织上衣",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "TS8-154-01112",
+            "price": "709",
+            "marketPrice": "3299",
+            "imageUrl": "https://cdn15.mei.com/product/TS8-154-01112/833b54622b8bd8e61b7ddbe4973debdf.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "230",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "709",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2121212199000030155",
+                    "size": "XS",
+                    "qty": 1
+                },
+                {
+                    "id": "2121212199000030153",
+                    "size": "S",
+                    "qty": 32
+                },
+                {
+                    "id": "2121212199000030152",
+                    "size": "M",
+                    "qty": 78
+                },
+                {
+                    "id": "2121212199000030151",
+                    "size": "L",
+                    "qty": 73
+                },
+                {
+                    "id": "2121212199000030154",
+                    "size": "XL",
+                    "qty": 46
+                }
+            ]
+        },
+        {
+            "productId": "2085208599000018655",
+            "productName": "Ports/宝姿多色混羊毛圆领长袖蕾丝拼接性感女士针织衫",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "PS2-2569-100010-C",
+            "price": "989",
+            "marketPrice": "3299",
+            "imageUrl": "https://cdn15.mei.com/product/PS2-2569-100010-C/8a4efa675c041e952b755ca9c6847883668d8b80b6aadbf18fc8be7eaf20dd8e.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "227",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "3.0",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "989",
+                "tax": "",
+                "discount": "3.0",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2022202299000023079",
+                    "size": "XS",
+                    "qty": 11
+                },
+                {
+                    "id": "2086208699000014599",
+                    "size": "S",
+                    "qty": 58
+                },
+                {
+                    "id": "2022202299000023080",
+                    "size": "M",
+                    "qty": 73
+                },
+                {
+                    "id": "2018201899000050376",
+                    "size": "L",
+                    "qty": 56
+                },
+                {
+                    "id": "2084208499000014969",
+                    "size": "XL",
+                    "qty": 29
+                }
+            ]
+        },
+        {
+            "productId": "2086208699000013864",
+            "productName": "Ports/宝姿粉色珠饰装饰设计时尚优雅甜美百搭针织中袖女士上衣",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "PS2-115-100011-C",
+            "price": "509",
+            "marketPrice": "2299",
+            "imageUrl": "https://cdn14.mei.com/product/PS2-115-100011-C/8a4efa675c041e951537dae61fce3a442ed43303c5c1ea4a89161f10ff740574.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "227",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.3",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "509",
+                "tax": "",
+                "discount": "2.3",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2085208599000010103",
+                    "size": "S",
+                    "qty": 32
+                },
+                {
+                    "id": "2019201999000015734",
+                    "size": "M",
+                    "qty": 76
+                },
+                {
+                    "id": "2016201699000058495",
+                    "size": "L",
+                    "qty": 76
+                },
+                {
+                    "id": "2019201999000015736",
+                    "size": "XL",
+                    "qty": 43
+                }
+            ]
+        },
+        {
+            "productId": "2086208699000018340",
+            "productName": "Ports/宝姿19秋冬多色含羊毛透视网格拼接优雅时尚女士针织衫毛衣",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "PS2-115-100040-C",
+            "price": "649",
+            "marketPrice": "2999",
+            "imageUrl": "https://cdn14.mei.com/product/PS2-115-100040-C/fb0296da00f372b79bc3aac8c782e318df1072d8ad40159cf1ff94c124c26357.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "212",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "649",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2084208499000015154",
+                    "size": "XS",
+                    "qty": 11
+                },
+                {
+                    "id": "2019201999000020916",
+                    "size": "S",
+                    "qty": 54
+                },
+                {
+                    "id": "2087208799000015286",
+                    "size": "M",
+                    "qty": 89
+                },
+                {
+                    "id": "2018201899000050601",
+                    "size": "L",
+                    "qty": 41
+                },
+                {
+                    "id": "2084208499000015155",
+                    "size": "XL",
+                    "qty": 17
+                }
+            ]
+        },
+        {
+            "productId": "2121212199000125140",
+            "productName": "灰色100%羊毛花朵圆领女士秋冬长袖毛衣",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "TS8-154-01439",
+            "price": "1079",
+            "marketPrice": "2699",
+            "imageUrl": "https://cdn13.mei.com/product/TS8-154-01441/833b54622b8bd8e63543aea374d60347.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "173",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "4.0",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "1079",
+                "tax": "",
+                "discount": "4.0",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2121212199000125145",
+                    "size": "XS",
+                    "qty": 8
+                },
+                {
+                    "id": "2121212199000125143",
+                    "size": "S",
+                    "qty": 53
+                },
+                {
+                    "id": "2121212199000125142",
+                    "size": "M",
+                    "qty": 47
+                },
+                {
+                    "id": "2121212199000125141",
+                    "size": "L",
+                    "qty": 48
+                },
+                {
+                    "id": "2121212199000125144",
+                    "size": "XL",
+                    "qty": 17
+                }
+            ]
+        },
+        {
+            "productId": "2040204099000622913",
+            "productName": "玫紫色印花饰时尚女士针织",
+            "product_type": "Configurable",
+            "brandName": "PORTS 1961",
+            "glsCode": "PT9-154-00318",
+            "price": "569",
+            "marketPrice": "2599",
+            "imageUrl": "https://cdn15.mei.com/product/PT9-154-00320/7614891400e7af4576da1c7bb6106d18.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "166",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "569",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2040204099000622918",
+                    "size": "XS",
+                    "qty": 2
+                },
+                {
+                    "id": "2040204099000622916",
+                    "size": "S",
+                    "qty": 54
+                },
+                {
+                    "id": "2040204099000622915",
+                    "size": "M",
+                    "qty": 47
+                },
+                {
+                    "id": "2040204099000622914",
+                    "size": "L",
+                    "qty": 56
+                },
+                {
+                    "id": "2040204099000622917",
+                    "size": "XL",
+                    "qty": 7
+                }
+            ]
+        },
+        {
+            "productId": "2041204199000747973",
+            "productName": "橘红色钉珠饰圆领短袖女士上衣",
+            "product_type": "Configurable",
+            "brandName": "PORTS 1961",
+            "glsCode": "PT9-115-00127",
+            "price": "769",
+            "marketPrice": "3599",
+            "imageUrl": "https://cdn12.mei.com/product/PT9-115-00129/dbe0474f332f44de3b66a67822adc38c.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "157",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "769",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2041204199000747976",
+                    "size": "S",
+                    "qty": 55
+                },
+                {
+                    "id": "2041204199000747975",
+                    "size": "M",
+                    "qty": 56
+                },
+                {
+                    "id": "2041204199000747974",
+                    "size": "L",
+                    "qty": 37
+                },
+                {
+                    "id": "2041204199000747977",
+                    "size": "XL",
+                    "qty": 9
+                }
+            ]
+        },
+        {
+            "productId": "2015201599000025732",
+            "productName": "PORTS INTERNATIONAL米色拼接撞色优雅时尚女装羊毛针织开衫外套",
+            "product_type": "Configurable",
+            "brandName": "Ports international",
+            "glsCode": "PSL-116-100006-C",
+            "price": "769",
+            "marketPrice": "3599",
+            "imageUrl": "https://cdn15.mei.com/product/PSL-116-100006-C/fb0296da00f372b7acfe44066562198c2c2c35724b75641e32aafc4c2d422386.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "151",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "769",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2086208699000021675",
+                    "size": "M/L",
+                    "qty": 51
+                },
+                {
+                    "id": "2086208699000021674",
+                    "size": "S/M",
+                    "qty": 100
+                }
+            ]
+        },
+        {
+            "productId": "2017201799000018516",
+            "productName": "Ports/宝姿19秋冬撞色棉质深V领蝙蝠九分袖时尚女士针织衫毛衣",
+            "product_type": "Simple",
+            "brandName": "PORTS",
+            "glsCode": "PS2-2569-15F94F",
+            "price": "489",
+            "marketPrice": "2199",
+            "imageUrl": "https://cdn12.mei.com/product/PS2-2569-15F94F/fb0296da00f372b7958e42ac5af97e8af7c61b19fb31a64330c6f6b8f642ffda.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "151",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.3",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "489",
+                "tax": "",
+                "discount": "2.3",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": []
+        },
+        {
+            "productId": "2121212199000125288",
+            "productName": "黑色100%羊毛菱格印花圆领女士长袖毛衣",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "TS8-154-01511",
+            "price": "709",
+            "marketPrice": "3299",
+            "imageUrl": "https://cdn13.mei.com/product/TS8-154-01513/833b54622b8bd8e6c54afe868d2dc382.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "145",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "2.2",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "709",
+                "tax": "",
+                "discount": "2.2",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2121212199000125293",
+                    "size": "XS",
+                    "qty": 8
+                },
+                {
+                    "id": "2121212199000125291",
+                    "size": "S",
+                    "qty": 68
+                },
+                {
+                    "id": "2121212199000125290",
+                    "size": "M",
+                    "qty": 47
+                },
+                {
+                    "id": "2121212199000125289",
+                    "size": "L",
+                    "qty": 22
+                }
+            ]
+        },
+        {
+            "productId": "2085208599000018656",
+            "productName": "Ports/宝姿多色混羊毛圆领长袖蕾丝拼接性感女士针织衫",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "PS2-2569-100011-C",
+            "price": "989",
+            "marketPrice": "3299",
+            "imageUrl": "https://cdn15.mei.com/product/PS2-2569-100011-C/8a4efa675c041e95703045c48ce4451c258fd8f5c857b73a8fc8be7eaf20dd8e.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "142",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "3.0",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "989",
+                "tax": "",
+                "discount": "3.0",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2021202199000019776",
+                    "size": "XS",
+                    "qty": 5
+                },
+                {
+                    "id": "2020202099000017964",
+                    "size": "S",
+                    "qty": 37
+                },
+                {
+                    "id": "2085208599000014950",
+                    "size": "M",
+                    "qty": 54
+                },
+                {
+                    "id": "2086208699000014600",
+                    "size": "L",
+                    "qty": 29
+                },
+                {
+                    "id": "2019201999000020684",
+                    "size": "XL",
+                    "qty": 17
+                }
+            ]
+        },
+        {
+            "productId": "2121212199000125134",
+            "productName": "黑色100%羊毛花朵圆领女士秋冬长袖毛衣",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "TS8-154-01433",
+            "price": "1079",
+            "marketPrice": "2699",
+            "imageUrl": "https://cdn12.mei.com/product/TS8-154-01435/833b54622b8bd8e6a57d1a25c4fef39b.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "141",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "4.0",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "1079",
+                "tax": "",
+                "discount": "4.0",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2121212199000125139",
+                    "size": "XS",
+                    "qty": 9
+                },
+                {
+                    "id": "2121212199000125137",
+                    "size": "S",
+                    "qty": 56
+                },
+                {
+                    "id": "2121212199000125136",
+                    "size": "M",
+                    "qty": 41
+                },
+                {
+                    "id": "2121212199000125135",
+                    "size": "L",
+                    "qty": 31
+                },
+                {
+                    "id": "2121212199000125138",
+                    "size": "XL",
+                    "qty": 4
+                }
+            ]
+        },
+        {
+            "productId": "2086208699000018350",
+            "productName": "Ports/宝姿多色羊毛简约钩花百搭圆领长袖女士针织衫",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "PS2-115-100086-C",
+            "price": "779",
+            "marketPrice": "2599",
+            "imageUrl": "https://cdn15.mei.com/product/PS2-115-100086-C/8a4efa675c041e9500199b5c0f509db9dd89998e21a8e5162f341b7d582775a3.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "133",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "3.0",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "779",
+                "tax": "",
+                "discount": "3.0",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2087208799000015077",
+                    "size": "XS",
+                    "qty": 5
+                },
+                {
+                    "id": "2015201599000017555",
+                    "size": "S",
+                    "qty": 51
+                },
+                {
+                    "id": "2087208799000015078",
+                    "size": "M",
+                    "qty": 47
+                },
+                {
+                    "id": "2014201499000042517",
+                    "size": "L",
+                    "qty": 28
+                },
+                {
+                    "id": "2021202199000019780",
+                    "size": "XL",
+                    "qty": 2
+                }
+            ]
+        },
+        {
+            "productId": "2185218599000000253",
+            "productName": "Ports/宝姿黑色羊毛撞色纹样圆领长袖百搭女士针织衫",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "PS2-115-100093-C",
+            "price": "1079",
+            "marketPrice": "3599",
+            "imageUrl": "https://cdn13.mei.com/product/PS2-115-100093-C/8a4efa675c041e95224f9d0fb95391aa98ee600f3671509b749a71e363a4a217.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "132",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "3.0",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "1079",
+                "tax": "",
+                "discount": "3.0",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2087208799000015076",
+                    "size": "XS",
+                    "qty": 7
+                },
+                {
+                    "id": "2019201999000020685",
+                    "size": "S",
+                    "qty": 50
+                },
+                {
+                    "id": "2016201699000063470",
+                    "size": "M",
+                    "qty": 56
+                },
+                {
+                    "id": "2087208799000015075",
+                    "size": "L",
+                    "qty": 18
+                },
+                {
+                    "id": "2085208599000014952",
+                    "size": "XL",
+                    "qty": 1
+                }
+            ]
+        },
+        {
+            "productId": "2085208599000022923",
+            "productName": "PORTS INTERNATIONAL多色纯羊毛高领长袖修身女士针织衫套头衫",
+            "product_type": "Configurable",
+            "brandName": "Ports international",
+            "glsCode": "PSL-2570-100006-C",
+            "price": "1199",
+            "marketPrice": "2399",
+            "imageUrl": "https://cdn14.mei.com/product/PSL-2570-100006-C/fb0296da00f372b7d3cd95b33b0d02af5de29a38b104c3e054ba39f8bd24e41a.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "130",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "5.0",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 2,
+            "itemPriceDto": {
+                "price": "1199",
+                "tax": "",
+                "discount": "5.0",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2014201499000049592",
+                    "size": "S",
+                    "qty": 23
+                },
+                {
+                    "id": "2021202199000026950",
+                    "size": "M",
+                    "qty": 42
+                },
+                {
+                    "id": "2018201899000057396",
+                    "size": "L",
+                    "qty": 42
+                },
+                {
+                    "id": "2084208499000021833",
+                    "size": "XL",
+                    "qty": 23
+                }
+            ]
+        },
+        {
+            "productId": "2185218599000000234",
+            "productName": "Ports/宝姿多色圆领秋冬女士时尚优雅长袖针织衫",
+            "product_type": "Configurable",
+            "brandName": "PORTS",
+            "glsCode": "PS2-115-100033-C",
+            "price": "1039",
+            "marketPrice": "2600",
+            "imageUrl": "https://cdn13.mei.com/product/PS2-115-100033-C/8a4efa675c041e958ae1db6f3966a8e0c313c19e48b0d6a4776becc4a77b82f2.jpg@300w_400h_2e_75q",
+            "stockStatus": "1",
+            "status": "1",
+            "isFavourite": "",
+            "isRecommend": "0",
+            "saleableQty": "130",
+            "eventStatus": "open",
+            "enableWaitingList": "0",
+            "allOutOfStock": "0",
+            "waitingListInfo": [],
+            "discount": "4.0",
+            "purchaseType": "D-Vendor Delivery",
+            "isNewProduct": "0",
+            "isCrossBorder": "0",
+            "isLimitedTimeOffer": "0",
+            "gif360Url": "",
+            "mix360Url": "",
+            "eventid": "",
+            "tNewProduct": 0,
+            "itemPriceDto": {
+                "price": "1039",
+                "tax": "",
+                "discount": "4.0",
+                "begin": "1578119063",
+                "end": "1586170800",
+                "vipPrice": "",
+                "vipTax": "",
+                "vipDiscount": "",
+                "vipBegin": "",
+                "vipEnd": "",
+                "newPrice": "",
+                "newTax": "",
+                "newDiscount": "",
+                "newBegin": "",
+                "newEnd": ""
+            },
+            "tagListDto": [],
+            "productSizes": [
+                {
+                    "id": "2022202299000023031",
+                    "size": "S",
+                    "qty": 43
+                },
+                {
+                    "id": "2085208599000014916",
+                    "size": "M",
+                    "qty": 50
+                },
+                {
+                    "id": "2085208599000014917",
+                    "size": "L",
+                    "qty": 35
+                },
+                {
+                    "id": "2086208699000014551",
+                    "size": "XL",
+                    "qty": 2
+                }
+            ]
+        }
+    ],
+    "isShoes": true,
+    "brandLogo": "",
+    "couponScheme": {
+        "globalCoupon": [],
+        "eventCoupon": [],
+        "otherCoupon": [
+            {
+                "couponType": "6",
+                "couponContent": "满688元全场免运",
+                "couponStock": 1,
+                "gwpImages": [],
+                "gwpLists": [],
+                "url": ""
+            }
+        ],
+        "globalFree": false,
+        "xxxFree": false
+    },
+    "appCoverPicture": "",
+    "eventUrl": "http://www.mei.com/silo/women/44391-2040204090000007382-event-event.html",
+    "overSea": "0",
+    "nowTime": "1578147864",
+    "unit": [
+        "规格型号"
+    ],
+    "silo_id": "2013000100000000001",
+    "360AB": "B",
+    "isFullprice": "0",
+    "eventName": "秋冬新品毛衫衣橱",
+    "brandAuthorization": "",
+    "totalPages": 15
+}
