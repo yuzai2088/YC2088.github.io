@@ -1,0 +1,3336 @@
+{
+    "status": 0,
+    "data": {
+        "cinemas": [
+            {
+                "cinemaId": 6550,
+                "name": "CGV星聚汇影城武汉昙华林店",
+                "address": "武汉市武昌区昙华林路202号昙华林购物中心",
+                "longitude": 114.32303,
+                "latitude": 30.557415,
+                "gpsAddress": "114.32303:30.557415",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-59378826",
+                "telephones": [
+                    "027-59378826"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/6550/7a6c881e8de5feb90805ae20fa92ef32.png",
+                "businessTime": "9:30—23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3700,
+                "Distance": 1.3249480310966262,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5386,
+                "name": "百丽宫影城（壹方店）",
+                "address": "武汉江岸区中山大道1515号壹方购物中心",
+                "longitude": 114.31562913690446,
+                "latitude": 30.612905690544267,
+                "gpsAddress": "114.31562913690446:30.612905690544267",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-82902166",
+                "telephones": [
+                    "027-82902166"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5386/44fb7c5c613cadd337bf909fca5954ad.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3600,
+                "Distance": 1.4600129433349238,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 157,
+                "name": "CGV星聚汇星星影城武汉天地店",
+                "address": "武汉市江岸区芦沟桥路28号武汉天地11号楼3楼",
+                "longitude": 114.31883797681138,
+                "latitude": 30.613153440441504,
+                "gpsAddress": "114.31883797681138:30.613153440441504",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-82716621",
+                "telephones": [
+                    "027-82716621"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/157/510a3cb9e52b65b82e71a6393a570e51.png",
+                "businessTime": "10:00-24:00",
+                "notice": "温馨提示：电子票如遇特殊影片需补差价的请以影城现场提示为准",
+                "isVisited": 0,
+                "lowPrice": 3900,
+                "Distance": 1.499117223412721,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 125,
+                "name": "武汉新天汇影城",
+                "address": "武汉市江汉路118号港澳中心6楼",
+                "longitude": 114.301645,
+                "latitude": 30.583821,
+                "gpsAddress": "114.301645:30.583821",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-82701816",
+                "telephones": [
+                    "027-82701816"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/125/7B04C2FA1A8D8DD0137787673EF04642.jpg",
+                "businessTime": "9:30-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2360,
+                "Distance": 1.6251134236340392,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8604,
+                "name": "星美影商城（武汉福星惠誉店）",
+                "address": "湖北省武汉市武昌区友谊大道305号福星惠誉漫时区3栋3楼",
+                "longitude": 114.330951,
+                "latitude": 30.580375,
+                "gpsAddress": "114.330951:30.580375",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-88773777",
+                "telephones": [
+                    "027-88773777"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8604/18e2712327f1395a4a68449982fa9cc2.jpg",
+                "businessTime": "10：00-02：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2600,
+                "Distance": 1.6423842549741123,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3691,
+                "name": "湖北剧院银兴电影城",
+                "address": "武汉市武昌阅马场湖北剧院内",
+                "longitude": 114.31125,
+                "latitude": 30.546642,
+                "gpsAddress": "114.31125:30.546642",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-88926661/027-88926651",
+                "telephones": [
+                    "027-88926661/027-88926651"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3691/4500279bd44f2db7965d03a9736eccdd.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2300,
+                "Distance": 1.6720277218271808,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 174,
+                "name": "武汉江汉环球电影城",
+                "address": "武汉市武昌区司门口解放路464号原江汉剧场(户部巷对面)",
+                "longitude": 114.306385,
+                "latitude": 30.553195,
+                "gpsAddress": "114.306385:30.553195",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-88863743",
+                "telephones": [
+                    "027-88863743"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/174/006EEE764BB0513A6005015F30764ED0.jpg",
+                "businessTime": "10:00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2600,
+                "Distance": 1.6815052670440207,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2601,
+                "name": "武汉魔影国际影城",
+                "address": "武汉市江岸区黄浦路68号（161医院旁），上东汇广场6楼",
+                "longitude": 114.31731110807165,
+                "latitude": 30.620293146401686,
+                "gpsAddress": "114.31731110807165:30.620293146401686",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-82708889",
+                "telephones": [
+                    "027-82708889"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2601/e976ba1b35d531e5a62a5742f7f638e7.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3740,
+                "Distance": 1.8015616952550824,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3675,
+                "name": "横店电影城武昌首义店",
+                "address": "武汉市武昌区张之洞路151号南国首义汇南3楼",
+                "longitude": 114.31093594256231,
+                "latitude": 30.540986069024942,
+                "gpsAddress": "114.31093594256231:30.540986069024942",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-88111120",
+                "telephones": [
+                    "027-88111120"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3675/3df1843019ec35e030c9533c3037277d.jpg",
+                "businessTime": "10：00-00：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3200,
+                "Distance": 1.9290020453609913,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8842,
+                "name": "武汉耀莱成龙影城吉庆街店",
+                "address": "武汉市江岸区吉庆街二期（辅义里）1号楼商业第1-4层",
+                "longitude": 114.2993494507725,
+                "latitude": 30.591718381190184,
+                "gpsAddress": "114.2993494507725:30.591718381190184",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-59305050",
+                "telephones": [
+                    "027-59305050"
+                ],
+                "logoUrl": "",
+                "businessTime": "10：00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2350,
+                "Distance": 1.93806770994646,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3703,
+                "name": "横店电影城武汉王府井店",
+                "address": "武汉市江汉区中山大道818号王府井百货7楼",
+                "longitude": 114.29798456897386,
+                "latitude": 30.585010483614955,
+                "gpsAddress": "114.29798456897386:30.585010483614955",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-51306912",
+                "telephones": [
+                    "027-51306912"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3703/3df1843019ec35e030c9533c3037277d.jpg",
+                "businessTime": "9：00-23：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2900,
+                "Distance": 2.035709830605377,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8189,
+                "name": "大汉口电影院",
+                "address": "武汉市江汉区水塔街中山大道539号大汉口城4楼",
+                "longitude": 114.29673265538123,
+                "latitude": 30.58473684388599,
+                "gpsAddress": "114.29673265538123:30.58473684388599",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-82296151",
+                "telephones": [
+                    "027-82296151"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8189/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "周一至周日 10:00-22:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 2.1735599644015515,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2707,
+                "name": "武汉璇宫国际影城江汉路店",
+                "address": "江汉区江汉一路45号璇宫饭店5楼（中心百货旁）",
+                "longitude": 114.29652342296016,
+                "latitude": 30.587179054988976,
+                "gpsAddress": "114.29652342296016:30.587179054988976",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-82280809",
+                "telephones": [
+                    "027-82280809"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2707/b9284daf5359788aba66063aa05e0932.tmp",
+                "businessTime": "",
+                "notice": "大年初一至初六，影城不支持卖品兑换，请谅解！",
+                "isVisited": 0,
+                "lowPrice": 2450,
+                "Distance": 2.2081298842589883,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 4932,
+                "name": "嘉裕国际影城武汉店",
+                "address": "武汉武昌区中山路与紫阳东路交汇处万金国际广场第3层",
+                "longitude": 114.32471251755831,
+                "latitude": 30.537434400236318,
+                "gpsAddress": "114.32471251755831:30.537434400236318",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "400-101-3565",
+                "telephones": [
+                    "400-101-3565"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/4932/83ccea5ea1802d9df162d9e0b2ffcf1d.jpg",
+                "businessTime": "10:00-23:59",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2250,
+                "Distance": 2.214174132546882,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2977,
+                "name": "武汉中影国际电影城海达店",
+                "address": "武汉武昌区复兴路海达广场3层",
+                "longitude": 114.30778022584813,
+                "latitude": 30.53662001260847,
+                "gpsAddress": "114.30778022584813:30.53662001260847",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-88776566",
+                "telephones": [
+                    "027-88776566"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2977/9d3333ce13b1c31e5b1678213fc7d1f4.png",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2100,
+                "Distance": 2.2430467424172305,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3697,
+                "name": "中影国际影城武汉江岸东购店",
+                "address": "武汉市江岸区解放大道2159号汉口东部购物公园C2栋4F",
+                "longitude": 114.32379516258169,
+                "latitude": 30.629182007465957,
+                "gpsAddress": "114.32379516258169:30.629182007465957",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-82285865/027-82285802",
+                "telephones": [
+                    "027-82285865/027-82285802"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3697/b351ceb97a36258c1211069dad1e93ce.jpg",
+                "businessTime": "周一至周五 10:00-24:00；周六至周日 9:30-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3000,
+                "Distance": 2.361580383358264,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3702,
+                "name": "武汉UA新民众乐园电影城",
+                "address": "武汉市江汉区中山大道608号新民众乐园4楼",
+                "longitude": 114.29427807420235,
+                "latitude": 30.581716545273917,
+                "gpsAddress": "114.29427807420235:30.581716545273917",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "18971217092",
+                "telephones": [
+                    "18971217092"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3702/17e57560e29f1446c057b62caf964c69.jpg",
+                "businessTime": "9:00-影片结束",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2200,
+                "Distance": 2.440521076438148,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 6686,
+                "name": "武汉莱纳万隆影城",
+                "address": "武汉市武昌区白沙洲武泰闸涂家沟特一号万隆广场第五层",
+                "longitude": 114.30957749173281,
+                "latitude": 30.525045691706094,
+                "gpsAddress": "114.30957749173281:30.525045691706094",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-88118899",
+                "telephones": [
+                    "027-88118899"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/6686/ff5f9ce5d11ea1f0ccfaab8ab9945bcd.png",
+                "businessTime": "10：00-01：00（晚场最后一场电影放映结束）",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2350,
+                "Distance": 2.6720878733363125,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 6226,
+                "name": "橙天嘉禾影城（M+购物广场店）",
+                "address": "武汉市江汉区江汉路187号M+购物中心6楼",
+                "longitude": 114.29210575229268,
+                "latitude": 30.588802537819426,
+                "gpsAddress": "114.29210575229268:30.588802537819426",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-59300093",
+                "telephones": [
+                    "027-59300093"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/6226/4a034b18903eca44f283bfe9e5bbf6fa.jpg",
+                "businessTime": "10:00-22:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3300,
+                "Distance": 2.7053829934765865,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5353,
+                "name": "武汉耀莱成龙影城中南店",
+                "address": "武汉市武昌区中南路街中南二路22号奥山创意街区负一楼01号",
+                "longitude": 114.33604171398903,
+                "latitude": 30.545982965621768,
+                "gpsAddress": "114.33604171398903:30.545982965621768",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-87112888",
+                "telephones": [
+                    "027-87112888"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5353/5b8ca990ed994d41d55e626804a84039.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3200,
+                "Distance": 2.733020237350182,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8881,
+                "name": "纽宾凯LUXE巨幕影城（帝斯曼店）",
+                "address": "武汉市武昌区武珞路421号帝斯曼国际中心6楼",
+                "longitude": 114.3359501173694,
+                "latitude": 30.54167363206607,
+                "gpsAddress": "114.3359501173694:30.54167363206607",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-59101555",
+                "telephones": [
+                    "027-59101555"
+                ],
+                "logoUrl": "",
+                "businessTime": "10:00—24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3950,
+                "Distance": 2.8459856647888544,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 804,
+                "name": "金逸影城中南店",
+                "address": "武汉市武昌区武珞路440号中南国际城4楼",
+                "longitude": 114.33588466323673,
+                "latitude": 30.540301218144087,
+                "gpsAddress": "114.33588466323673:30.540301218144087",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-87715855",
+                "telephones": [
+                    "027-87715855"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/804/d14cfdb306f24a0b6313783064c57045.jpg",
+                "businessTime": "10:00-23：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3590,
+                "Distance": 2.880809819196535,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2350,
+                "name": "城市广场摩尔国际电影城(后湖店) ",
+                "address": "武汉市江岸区后湖大道111号汉口城市广场A座13楼",
+                "longitude": 114.311828,
+                "latitude": 30.656833,
+                "gpsAddress": "114.311828:30.656833",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-82855588",
+                "telephones": [
+                    "027-82855588"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2350/f6cf53a2cf1f2bbf7380ee49d80e3abd.tmp",
+                "businessTime": "9：00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3950,
+                "Distance": 3.5058501149343626,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3321,
+                "name": "卢米埃影城（凯德1818广场店）",
+                "address": "武汉武昌区中北路109号凯德1818中心七楼",
+                "longitude": 114.34694910028787,
+                "latitude": 30.558889052990228,
+                "gpsAddress": "114.34694910028787:30.558889052990228",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-59627127",
+                "telephones": [
+                    "027-59627127"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3321/9044492dc2fc783b1d7325a8f5ac56f6.jpg",
+                "businessTime": "10：00-23：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3000,
+                "Distance": 3.5711303949906923,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 167,
+                "name": "金逸武汉销品茂IMAX店",
+                "address": "武汉市武昌区徐东大街18号武汉销品茂5楼",
+                "longitude": 114.34855437223419,
+                "latitude": 30.59313900414328,
+                "gpsAddress": "114.34855437223419:30.59313900414328",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-68898561",
+                "telephones": [
+                    "027-68898561"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/167/671f582f5beaf7ec3fb221ccf9393bb5.jpg",
+                "businessTime": "9:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 4000,
+                "Distance": 3.6438552053551763,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 410,
+                "name": "金逸影城南湖店",
+                "address": "湖北省武汉市武昌区丁字桥南路518号三楼",
+                "longitude": 114.33177267784954,
+                "latitude": 30.511099231955953,
+                "gpsAddress": "114.33177267784954:30.511099231955953",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-88709399",
+                "telephones": [
+                    "027-88709399"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/410/3b2e9bb7c0bbe64961b5a45157db19d1.jpg",
+                "businessTime": "10:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3300,
+                "Distance": 3.647257746823106,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3202,
+                "name": "武汉百瑞景天河国际影城",
+                "address": "湖北省武汉市武昌区宝通寺路38号瑞景广场3楼",
+                "longitude": 114.34058041066294,
+                "latitude": 30.52656011943351,
+                "gpsAddress": "114.34058041066294:30.52656011943351",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-87210089",
+                "telephones": [
+                    "027-87210089"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3202/978a505352e557622263ab113f982186.png",
+                "businessTime": "星期一至日9：00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2600,
+                "Distance": 3.6902741419311575,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8188,
+                "name": "CGV影城(永旺金桥IMAX店)",
+                "address": "武汉市江岸区金桥大道15号永旺梦乐城购物中心03层",
+                "longitude": 114.29016498569602,
+                "latitude": 30.63705790187592,
+                "gpsAddress": "114.29016498569602:30.63705790187592",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-65598223",
+                "telephones": [
+                    "027-65598223"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8188/c22669b1e845499c05b127b799c87a47.png",
+                "businessTime": "10:00—23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3900,
+                "Distance": 3.869891089388295,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1926,
+                "name": "武汉华夏国际影城后湖百步亭店",
+                "address": "武汉市江岸区后湖大道268号新生活摩尔城三楼",
+                "longitude": 114.32880037445949,
+                "latitude": 30.661765758108043,
+                "gpsAddress": "114.32880037445949:30.661765758108043",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-82311119",
+                "telephones": [
+                    "027-82311119"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1926/4a35dfcea0e58b2d3ef913107a6c4ca9.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3210,
+                "Distance": 3.956205045470716,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7450,
+                "name": "明星时代影城",
+                "address": "湖北省武汉市江岸区后湖大道与百步亭交汇处华林广场1-2层",
+                "longitude": 114.331205,
+                "latitude": 30.662327,
+                "gpsAddress": "114.331205:30.662327",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-82607066",
+                "telephones": [
+                    "027-82607066"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7450/e4e6ff22517755599089d7f8fb6837d0.png",
+                "businessTime": "9：00-23：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3000,
+                "Distance": 4.082459174450866,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3686,
+                "name": "武商摩尔国际电影城(国广店) ",
+                "address": "武汉江汉区解放大道690号7/8楼",
+                "longitude": 114.27865293648384,
+                "latitude": 30.584506544234003,
+                "gpsAddress": "114.27865293648384:30.584506544234003",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-85585588",
+                "telephones": [
+                    "027-85585588"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3686/a21129f2141908c87aeddc47616624c8.jpg",
+                "businessTime": "9：00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3950,
+                "Distance": 4.182670158065966,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5233,
+                "name": "百老汇影城（亚贸兴汇店）",
+                "address": "武汉武昌区武珞路628号武商亚贸广场6楼（地铁2号线宝通寺站B出口）",
+                "longitude": 114.349333,
+                "latitude": 30.535616,
+                "gpsAddress": "114.349333:30.535616",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-87854279",
+                "telephones": [
+                    "027-87854279"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5233/44fb7c5c613cadd337bf909fca5954ad.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2800,
+                "Distance": 4.2371210093175256,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8940,
+                "name": "长江银兴影城（武商世贸广场店）",
+                "address": "江汉区解放大道686号世贸广场8楼",
+                "longitude": 114.27555483259356,
+                "latitude": 30.586073969479326,
+                "gpsAddress": "114.27555483259356:30.586073969479326",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "telephones": [
+                    ""
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2750,
+                "Distance": 4.530379222228024,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3684,
+                "name": "武汉洪山礼堂银兴影城",
+                "address": "武汉市武昌区洪山路81号",
+                "longitude": 114.35512804709175,
+                "latitude": 30.552173169652672,
+                "gpsAddress": "114.35512804709175:30.552173169652672",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-87232936",
+                "telephones": [
+                    "027-87232936"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3684/e15a9040e3217e1ace5e9ec16f0c4de8.jpg",
+                "businessTime": "9:30-22:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2800,
+                "Distance": 4.531838722536067,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1924,
+                "name": "武汉天河欢乐汇影城",
+                "address": "武汉市洪山区书城路18号欢乐汇创意大楼5楼（瑞安王朝酒店旁）",
+                "longitude": 114.34587564406786,
+                "latitude": 30.512117051848367,
+                "gpsAddress": "114.34587564406786:30.512117051848367",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87200010",
+                "telephones": [
+                    "027-87200010"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1924/a21e141f763229b92d6606e051ddad5f.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2900,
+                "Distance": 4.573658417678566,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3678,
+                "name": "武汉银兴国际影城西园店",
+                "address": "武汉市万松园路100号西园步行街三楼",
+                "longitude": 114.275261,
+                "latitude": 30.591464,
+                "gpsAddress": "114.275261:30.591464",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-85801531",
+                "telephones": [
+                    "027-85801531"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3678/23e3e06179b8b98a8417434397d4eae7.tmp",
+                "businessTime": "9：30－23：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2150,
+                "Distance": 4.58205077153465,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5401,
+                "name": "武汉中影新干线国际影城(新世界百货店)",
+                "address": "武汉江汉区建设大道566号新世界百货国贸5楼",
+                "longitude": 114.27584417679832,
+                "latitude": 30.600893824262954,
+                "gpsAddress": "114.27584417679832:30.600893824262954",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-59812788",
+                "telephones": [
+                    "027-59812788"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5401/1cfce595f56d710588cc89c3fdc5d3e7.jpg",
+                "businessTime": "9：00-23：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2800,
+                "Distance": 4.583112757619126,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 802,
+                "name": "金逸影城武胜路店",
+                "address": "武汉市硚口区武胜路凯德广场7楼",
+                "longitude": 114.27366731664921,
+                "latitude": 30.574912814502117,
+                "gpsAddress": "114.27366731664921:30.574912814502117",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420104,
+                "districtName": "硚口区",
+                "district": {
+                    "districtId": 420104,
+                    "name": "硚口区"
+                },
+                "phone": "027-88188970",
+                "telephones": [
+                    "027-88188970"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/4/e2d4c899d9026847626cfcc0dafd9d7e.jpg",
+                "businessTime": "10:00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3500,
+                "Distance": 4.743157266541039,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8947,
+                "name": "德信影城（金域华府店）",
+                "address": "武昌区杨园街万科金域华府商业中心一楼",
+                "longitude": 114.35817611806004,
+                "latitude": 30.605821373223677,
+                "gpsAddress": "114.35817611806004:30.605821373223677",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "telephones": [
+                    ""
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 4.808577881343142,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3119,
+                "name": "武汉中影星美国际影城",
+                "address": "武汉洪山区野芷湖西路16号创意剧场",
+                "longitude": 114.33057791086024,
+                "latitude": 30.475432292015583,
+                "gpsAddress": "114.33057791086024:30.475432292015583",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "02787803788",
+                "telephones": [
+                    "02787803788"
+                ],
+                "logoUrl": "https://pic.maizuo.com/usr/3119/ebb0f5a1d028e2dbceb43055d1b68ccb.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2600,
+                "Distance": 5.101799084160344,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 687,
+                "name": "武汉博影时代影城",
+                "address": "武汉市硚口区航空路13号",
+                "longitude": 114.26755223843247,
+                "latitude": 30.5864393135553,
+                "gpsAddress": "114.26755223843247:30.5864393135553",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420104,
+                "districtName": "硚口区",
+                "district": {
+                    "districtId": 420104,
+                    "name": "硚口区"
+                },
+                "phone": "027-83806099",
+                "telephones": [
+                    "027-83806099"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/687/45f4515e2d3a0f4b81230d58b94a6672.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 5.421005577614682,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 803,
+                "name": "金逸影城杨汊湖店",
+                "address": "武汉市江汉区姑嫂树路12号南国北都城市广场三楼",
+                "longitude": 114.27227897021235,
+                "latitude": 30.63326013121475,
+                "gpsAddress": "114.27227897021235:30.63326013121475",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-85555616 ",
+                "telephones": [
+                    "027-85555616 "
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/4/e2d4c899d9026847626cfcc0dafd9d7e.jpg",
+                "businessTime": "9:30-12:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3300,
+                "Distance": 5.441999427411967,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7448,
+                "name": "武汉天纵城环球影城",
+                "address": "黄陂区盘龙城经济开发区巨龙大道天纵城广场4楼",
+                "longitude": 114.312223,
+                "latitude": 30.700706,
+                "gpsAddress": "114.312223:30.700706",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420116,
+                "districtName": "黄陂区",
+                "district": {
+                    "districtId": 420116,
+                    "name": "黄陂区"
+                },
+                "phone": "027-85027218",
+                "telephones": [
+                    "027-85027218"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7448/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2690,
+                "Distance": 5.50068146923902,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3694,
+                "name": "武汉洪山天河影院",
+                "address": "湖北省武汉市洪山区珞瑜路6号",
+                "longitude": 114.36230338721717,
+                "latitude": 30.531703363518204,
+                "gpsAddress": "114.36230338721717:30.531703363518204",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87882649",
+                "telephones": [
+                    "027-87882649"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3694/46bafd9c3ecf92369ecf89dd46636ef3.jpg",
+                "businessTime": "10:00-凌晨1:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2570,
+                "Distance": 5.60999983614802,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3195,
+                "name": "武汉博纳国际影城（IMAX）",
+                "address": "湖北省武汉市洪山区街道口银泰创意城10楼（请乘坐2号电梯直达10楼影城）",
+                "longitude": 114.36324148766124,
+                "latitude": 30.53241770167612,
+                "gpsAddress": "114.36324148766124:30.53241770167612",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87226677",
+                "telephones": [
+                    "027-87226677"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3195/eec3b8b28ffb31e98fb863d4c3bbb0d6.jpg",
+                "businessTime": "10：00-02:00（次日），晚21:30分后请走商场背面员工通道（2号梯）",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3200,
+                "Distance": 5.692772470875411,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3339,
+                "name": "新唐万科摩尔国际电影城(新唐万科店)",
+                "address": " 湖北省武汉市江汉区常青一路新华路路口新唐万科广场4楼",
+                "longitude": 114.267405,
+                "latitude": 30.629561,
+                "gpsAddress": "114.267405:30.629561",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-85575588",
+                "telephones": [
+                    "027-85575588"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3339/f6cf53a2cf1f2bbf7380ee49d80e3abd.png",
+                "businessTime": "9：00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3950,
+                "Distance": 5.867993704443049,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1932,
+                "name": "CGV星聚汇影城武汉奥山店",
+                "address": "武汉市青山区和平大道809号奥山世纪广场B301",
+                "longitude": 114.36706284606338,
+                "latitude": 30.622776692853396,
+                "gpsAddress": "114.36706284606338:30.622776692853396",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420107,
+                "districtName": "青山区",
+                "district": {
+                    "districtId": 420107,
+                    "name": "青山区"
+                },
+                "phone": "027-86370388",
+                "telephones": [
+                    "027-86370388"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1932/7a6c881e8de5feb90805ae20fa92ef32.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3700,
+                "Distance": 5.976449030358516,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8301,
+                "name": "维佳银兴国际影城盘龙店",
+                "address": "黄陂区盘龙城巨龙大道39号德成生活中心4楼（维佳银兴国际影城）",
+                "longitude": 114.29875980328073,
+                "latitude": 30.70605697076969,
+                "gpsAddress": "114.29875980328073:30.70605697076969",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420116,
+                "districtName": "黄陂区",
+                "district": {
+                    "districtId": 420116,
+                    "name": "黄陂区"
+                },
+                "phone": "027-61105858",
+                "telephones": [
+                    "027-61105858"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8301/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "10：00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2600,
+                "Distance": 6.046753379950175,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8699,
+                "name": "武汉泛海国际影城（二期城广巨幕店）",
+                "address": "武汉市江汉区中央商务区泛海城市广场二期购物中心6层",
+                "longitude": 114.26187915527242,
+                "latitude": 30.60941928228575,
+                "gpsAddress": "114.26187915527242:30.60941928228575",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "17771801863",
+                "telephones": [
+                    "17771801863"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8699/702d628f6306655314b8272d4f9ab9cc.jpg",
+                "businessTime": "9:30-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3110,
+                "Distance": 6.1846098771140054,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3030,
+                "name": "武汉泛海国际影城",
+                "address": "武汉市江汉区云彩路198号泛海城市广场购物中心5楼",
+                "longitude": 114.26151956537339,
+                "latitude": 30.610442369351645,
+                "gpsAddress": "114.26151956537339:30.610442369351645",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420103,
+                "districtName": "江汉区",
+                "district": {
+                    "districtId": 420103,
+                    "name": "江汉区"
+                },
+                "phone": "027-83886973",
+                "telephones": [
+                    "027-83886973"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3030/ef299ab55cfc723f9675e07d6682c3a8.png",
+                "businessTime": "10:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2570,
+                "Distance": 6.233686766472856,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8187,
+                "name": "CGV影城（江腾IMAX店）",
+                "address": "武汉市汉阳区马鹦路117号江腾广场C区A座4层",
+                "longitude": 114.262326,
+                "latitude": 30.543443,
+                "gpsAddress": "114.262326:30.543443",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "027-84224688",
+                "telephones": [
+                    "027-84224688"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8187/c22669b1e845499c05b127b799c87a47.png",
+                "businessTime": "10:00—24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 4100,
+                "Distance": 6.240006502681184,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3357,
+                "name": "武汉银兴星汇维港电影城",
+                "address": "武汉市硚口区中山大道1号星汇维港购物中心A区第四层A4013商铺",
+                "longitude": 114.25663283550082,
+                "latitude": 30.57548344856732,
+                "gpsAddress": "114.25663283550082:30.57548344856732",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420104,
+                "districtName": "硚口区",
+                "district": {
+                    "districtId": 420104,
+                    "name": "硚口区"
+                },
+                "phone": "027-83868225",
+                "telephones": [
+                    "027-83868225"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3357/448a8e1e33c69c1b9bd69bca868c532c.jpg",
+                "businessTime": "购物中心营业时间：10：00-22：00（22：00后可由A区A3号\\A4号电梯出入影城，走影城夜间通道）",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3630,
+                "Distance": 6.635954242308575,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8943,
+                "name": "德信影城（HO店）",
+                "address": "武汉市洪山区卓刀泉南路10号ho街三号楼德信影城",
+                "longitude": 114.37143089613107,
+                "latitude": 30.517066472199538,
+                "gpsAddress": "114.37143089613107:30.517066472199538",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "telephones": [
+                    ""
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2440,
+                "Distance": 6.813997009455839,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2351,
+                "name": "武汉众圆广场摩尔国际电影城",
+                "address": "青山区和平大道955号武商众圆广场4楼C区",
+                "longitude": 114.38274834901387,
+                "latitude": 30.631720609995444,
+                "gpsAddress": "114.38274834901387:30.631720609995444",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420107,
+                "districtName": "青山区",
+                "district": {
+                    "districtId": 420107,
+                    "name": "青山区"
+                },
+                "phone": "027-86436788",
+                "telephones": [
+                    "027-86436788"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2351/f6cf53a2cf1f2bbf7380ee49d80e3abd.tmp",
+                "businessTime": "9：00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3700,
+                "Distance": 7.764115579285931,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7452,
+                "name": "中影烽禾影城",
+                "address": "武汉黄陂区汉口北大道汉北广场三楼",
+                "longitude": 114.355041,
+                "latitude": 30.72328,
+                "gpsAddress": "114.355041:30.72328",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420116,
+                "districtName": "黄陂区",
+                "district": {
+                    "districtId": 420116,
+                    "name": "黄陂区"
+                },
+                "phone": "027-61620999",
+                "telephones": [
+                    "027-61620999"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7452/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 7.8257892922051155,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2275,
+                "name": "武汉横店电影城汇和店",
+                "address": "东西湖区花园中路常青花园地铁站汇和城购物中心五楼",
+                "longitude": 114.24888916622503,
+                "latitude": 30.64732333025657,
+                "gpsAddress": "114.24888916622503:30.64732333025657",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420112,
+                "districtName": "东西湖区",
+                "district": {
+                    "districtId": 420112,
+                    "name": "东西湖区"
+                },
+                "phone": "027-63370612",
+                "telephones": [
+                    "027-63370612"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2275/287d24415747c2c2f2c2eecff72ee550.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2900,
+                "Distance": 8.083341858994372,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2371,
+                "name": "武汉东澜岸天河影城",
+                "address": "洪山区青菱乡红霞村黄家湖大学城福星惠誉东澜岸",
+                "longitude": 114.269605,
+                "latitude": 30.439706,
+                "gpsAddress": "114.269605:30.439706",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-88861777 ",
+                "telephones": [
+                    "027-88861777 "
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2371/27a10094dc8ea0754022d9e90b2afded.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 8.296143040251941,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 6712,
+                "name": "武汉银兴东融国际影城",
+                "address": "武汉洪山区卓刀泉路271号五环天地2号楼3/4层商铺",
+                "longitude": 114.386289,
+                "latitude": 30.511929,
+                "gpsAddress": "114.386289:30.511929",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87057887",
+                "telephones": [
+                    "027-87057887"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/6712/3c564011ab7c3538c8634ea297ce45de.jpg",
+                "businessTime": "10:00--24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 8.42324456560994,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8820,
+                "name": "自由人影城(洪山金地广场店)",
+                "address": "武汉市洪山区和平街武丰村K2地块金地广场购物中心3-5层",
+                "longitude": 114.39233621973894,
+                "latitude": 30.610811460068078,
+                "gpsAddress": "114.39233621973894:30.610811460068078",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-86681119",
+                "telephones": [
+                    "027-86681119"
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3300,
+                "Distance": 8.584593733401565,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5082,
+                "name": "武汉耀莱成龙影城八大家店",
+                "address": "武汉市青山区38街坊八大家花园6号楼3、4号商铺",
+                "longitude": 114.39219392006142,
+                "latitude": 30.635234395980223,
+                "gpsAddress": "114.39219392006142:30.635234395980223",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420107,
+                "districtName": "青山区",
+                "district": {
+                    "districtId": 420107,
+                    "name": "青山区"
+                },
+                "phone": "027-59818555",
+                "telephones": [
+                    "027-59818555"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5082/5b8ca990ed994d41d55e626804a84039.jpg",
+                "businessTime": "9:30-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2600,
+                "Distance": 8.81724915286933,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1934,
+                "name": "CGV星聚汇影城武汉金银潭店",
+                "address": "武汉市东西湖区金银潭大道永旺梦乐城三楼",
+                "longitude": 114.243069,
+                "latitude": 30.656403,
+                "gpsAddress": "114.243069:30.656403",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420112,
+                "districtName": "东西湖区",
+                "district": {
+                    "districtId": 420112,
+                    "name": "东西湖区"
+                },
+                "phone": "027-85755990",
+                "telephones": [
+                    "027-85755990"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1934/7a6c881e8de5feb90805ae20fa92ef32.png",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3900,
+                "Distance": 8.840843310101397,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 9273,
+                "name": "UME影城（武汉青山店）",
+                "address": "武汉青山区和平大道1278号武汉印象城3楼",
+                "longitude": 114.39503126203164,
+                "latitude": 30.63798949003434,
+                "gpsAddress": "114.39503126203164:30.63798949003434",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420107,
+                "districtName": "青山区",
+                "district": {
+                    "districtId": 420107,
+                    "name": "青山区"
+                },
+                "phone": "027-86858611",
+                "telephones": [
+                    "027-86858611"
+                ],
+                "logoUrl": "",
+                "businessTime": "9:00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3270,
+                "Distance": 9.156042333936215,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5127,
+                "name": "武汉飞尚国际影城",
+                "address": "武汉市黄陂区盘龙城川龙大道奥莱之星广场10栋3楼",
+                "longitude": 114.26251720820157,
+                "latitude": 30.735090605975387,
+                "gpsAddress": "114.26251720820157:30.735090605975387",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420116,
+                "districtName": "黄陂区",
+                "district": {
+                    "districtId": 420116,
+                    "name": "黄陂区"
+                },
+                "phone": "027-61881158",
+                "telephones": [
+                    "027-61881158"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5127/15643789f1eb0433254e2b09f1d2bfcc.png",
+                "businessTime": "9.00-24.00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2570,
+                "Distance": 9.243570374082653,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7337,
+                "name": "中影星美国际影城铁桥店",
+                "address": "武汉市汉阳区百灵路铁桥广场3楼中影星美浩瀚国际影城",
+                "longitude": 114.233253,
+                "latitude": 30.568875,
+                "gpsAddress": "114.233253:30.568875",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "027-86780179",
+                "telephones": [
+                    "027-86780179"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7337/a130a650168d3217e54db4380c0fa1be.png",
+                "businessTime": "10:00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2690,
+                "Distance": 9.250519321534304,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2318,
+                "name": "橙天嘉禾影城（南国店）",
+                "address": "湖北省武汉市硚口区解放大道387号大武汉家装广场二期V座3-5层",
+                "longitude": 114.23237687995096,
+                "latitude": 30.593415831243647,
+                "gpsAddress": "114.23237687995096:30.593415831243647",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420104,
+                "districtName": "硚口区",
+                "district": {
+                    "districtId": 420104,
+                    "name": "硚口区"
+                },
+                "phone": "027-59708111",
+                "telephones": [
+                    "027-59708111"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2318/a82bfaed678d38a2559429744c9a9443.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3300,
+                "Distance": 9.348208748135114,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1989,
+                "name": "幸福蓝海影城武汉雄楚店",
+                "address": "武汉市洪山区雄楚大道888号金地雄楚一号（武汉工程大学正对面）",
+                "longitude": 114.39657634391558,
+                "latitude": 30.50473312410887,
+                "gpsAddress": "114.39657634391558:30.50473312410887",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87660955",
+                "telephones": [
+                    "027-87660955"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1989/c51188d89beda3c3221edd8bac4de6a1.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2750,
+                "Distance": 9.609542981619427,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5402,
+                "name": "武汉银兴国际影城(光谷时尚城店)",
+                "address": "武汉江夏区东湖高新区南湖大道南湖时尚城K4B4楼",
+                "longitude": 114.393698,
+                "latitude": 30.483884,
+                "gpsAddress": "114.393698:30.483884",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-87655077",
+                "telephones": [
+                    "027-87655077"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5402/d0c7353b2d1e832d6736f65d584487e2.jpg",
+                "businessTime": "9:30—24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2900,
+                "Distance": 9.712689167607287,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8896,
+                "name": "华夏影城江夏店",
+                "address": "武汉市江夏区谭鑫培路万豪世纪天街三楼华夏影城",
+                "longitude": 114.3325807898931,
+                "latitude": 30.372854859000164,
+                "gpsAddress": "114.3325807898931:30.372854859000164",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-87999930",
+                "telephones": [
+                    "027-87999930"
+                ],
+                "logoUrl": "",
+                "businessTime": "9：30-22：30",
+                "notice": "华夏影城江夏店共有7个影厅，全部采用4K放映机，其中三号厅为杜比全景声巨幕影厅，影院1146张座椅为皮质沙发，排距超过145CM，绝佳舒适。",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 9.720449501283237,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3123,
+                "name": "武汉高德国际影城江夏店",
+                "address": "武汉市江夏区文化路37号中百广场6楼",
+                "longitude": 114.3289301517582,
+                "latitude": 30.370668191124647,
+                "gpsAddress": "114.3289301517582:30.370668191124647",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-81787666",
+                "telephones": [
+                    "027-81787666"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3123/d1285e54dca336d9a524bc94d4e520bd.png",
+                "businessTime": "10:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2700,
+                "Distance": 9.750988077693247,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8946,
+                "name": "锦绣龙城华幕影城",
+                "address": "武汉市洪山区民族大道龙城路龙城商业街",
+                "longitude": 114.39148224380926,
+                "latitude": 30.471466850394748,
+                "gpsAddress": "114.39148224380926:30.471466850394748",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "telephones": [
+                    ""
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2660,
+                "Distance": 9.775031552122426,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2287,
+                "name": "武汉耀莱成龙影城（光谷店）",
+                "address": "湖北省武汉市洪山区珞瑜路889号融众国际大厦6-7层",
+                "longitude": 114.40322170175621,
+                "latitude": 30.513851740988574,
+                "gpsAddress": "114.40322170175621:30.513851740988574",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-59811222",
+                "telephones": [
+                    "027-59811222"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2287/efe07501971f2fda932391a6c00a3411.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2600,
+                "Distance": 10.167170009177983,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3303,
+                "name": "武汉金逸影城江夏店",
+                "address": "武汉江夏区江夏大道与北华街交汇处九全嘉购物广场4楼",
+                "longitude": 114.33724546313512,
+                "latitude": 30.365063198829084,
+                "gpsAddress": "114.33724546313512:30.365063198829084",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-81787990",
+                "telephones": [
+                    "027-81787990"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3303/671f582f5beaf7ec3fb221ccf9393bb5.jpg",
+                "businessTime": "",
+                "notice": "2017年6月15日起本影城不再提供公用的3D眼镜，请您自备3D眼镜或至影城购买",
+                "isVisited": 0,
+                "lowPrice": 2590,
+                "Distance": 10.179300698141873,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1811,
+                "name": "武汉华夏国际影城鲁广店",
+                "address": "洪山区珞喻726号鲁巷广场购物中心七楼(商场三号A门、五号门电梯可直接达影城)",
+                "longitude": 114.4032705938302,
+                "latitude": 30.512676720736458,
+                "gpsAddress": "114.4032705938302:30.512676720736458",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87770766 ",
+                "telephones": [
+                    "027-87770766 "
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1811/e69868fc3dca159c91bffe73e87352ca.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2700,
+                "Distance": 10.188858960275304,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3693,
+                "name": "武汉光谷正华银兴影院",
+                "address": "武汉市洪山区民族大道118号光谷时间广场3楼",
+                "longitude": 114.40321553039736,
+                "latitude": 30.501686280251995,
+                "gpsAddress": "114.40321553039736:30.501686280251995",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87746818",
+                "telephones": [
+                    "027-87746818"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3693/4a37870b6a2a25a2432203053d08e54c.jpg",
+                "businessTime": "00:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2600,
+                "Distance": 10.349816531208749,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3676,
+                "name": "银兴国际影城武汉江夏店",
+                "address": "武汉市江夏大道128号附一1号中央大街2号楼4层",
+                "longitude": 114.33574708415465,
+                "latitude": 30.359444802633213,
+                "gpsAddress": "114.33574708415465:30.359444802633213",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-81827958",
+                "telephones": [
+                    "027-81827958"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3676/9a639c0d809e7470d7bdc09fb8788434.jpg",
+                "businessTime": "10：00-23：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2100,
+                "Distance": 10.39371304880274,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1202,
+                "name": "大地影院（江夏宜佳广场店）",
+                "address": "武汉市江夏区纸坊街道兴新街宜佳购物广场4楼东侧 ",
+                "longitude": 114.32247641865236,
+                "latitude": 30.353099915573736,
+                "gpsAddress": "114.32247641865236:30.353099915573736",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-81811427 / 027-81811427",
+                "telephones": [
+                    "027-81811427 / 027-81811427"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1202/226af4b1d757f2054a8370d5e24fb9ad.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3300,
+                "Distance": 10.474985626284694,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3705,
+                "name": "巨幕影城武汉光谷广场资本大厦店",
+                "address": "武汉市洪山区光谷广场光谷资本大厦四楼",
+                "longitude": 114.40605217079099,
+                "latitude": 30.510401262004,
+                "gpsAddress": "114.40605217079099:30.510401262004",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87575577",
+                "telephones": [
+                    "027-87575577"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3705/d43686589c5f411ca75d5728bcb94940.jpg",
+                "businessTime": "10:00-22:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2730,
+                "Distance": 10.515684559079014,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3696,
+                "name": "中影国际影城武汉光谷天河店",
+                "address": "湖北武汉市洪山区光谷步行街C区3楼",
+                "longitude": 114.40939076543918,
+                "latitude": 30.511921397352957,
+                "gpsAddress": "114.40939076543918:30.511921397352957",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87416895",
+                "telephones": [
+                    "027-87416895"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3696/81d4ff90c52e00938dc845e716713c14.jpg",
+                "businessTime": "9:00-24:00",
+                "notice": "7月25日16:25跳舞吧大象映后见面会到场嘉宾：林育贤、艾伦、金春花、宋楠惜",
+                "isVisited": 0,
+                "lowPrice": 3000,
+                "Distance": 10.849218125767905,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8944,
+                "name": "武汉瀚鑫影城",
+                "address": "武汉市黄陂区横店街瀚鑫影城",
+                "longitude": 114.30081437505918,
+                "latitude": 30.815469885006507,
+                "gpsAddress": "114.30081437505918:30.815469885006507",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420116,
+                "districtName": "黄陂区",
+                "district": {
+                    "districtId": 420116,
+                    "name": "黄陂区"
+                },
+                "telephones": [
+                    ""
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3630,
+                "Distance": 10.876335722122805,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7405,
+                "name": "武汉中影优加影城",
+                "address": "武汉硚口区古田四路江城壹号创意产业园区13栋",
+                "longitude": 114.21847043782566,
+                "latitude": 30.604177689600746,
+                "gpsAddress": "114.21847043782566:30.604177689600746",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420104,
+                "districtName": "硚口区",
+                "district": {
+                    "districtId": 420104,
+                    "name": "硚口区"
+                },
+                "phone": "027-83618200",
+                "telephones": [
+                    "027-83618200"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7405/86b3f8a7087940203babff272a3209aa.png",
+                "businessTime": "9：30-24：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2680,
+                "Distance": 10.930402032148837,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1933,
+                "name": "CGV星聚汇影城武汉光谷店",
+                "address": "武汉光谷步行街4期德国风情街8号楼3楼",
+                "longitude": 114.41021877405149,
+                "latitude": 30.511450134795385,
+                "gpsAddress": "114.41021877405149:30.511450134795385",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87101656",
+                "telephones": [
+                    "027-87101656"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1933/5f0133ae4a9246adc7057a4426b711a6.tmp",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3500,
+                "Distance": 10.943705476164077,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7451,
+                "name": "武汉中影烽禾影城（罗马春天奥莱店）",
+                "address": "武汉市江夏区江夏大道罗马春天奥特莱斯商业城STU区四楼",
+                "longitude": 114.37634471799953,
+                "latitude": 30.392338318115204,
+                "gpsAddress": "114.37634471799953:30.392338318115204",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-81560999",
+                "telephones": [
+                    "027-81560999"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7451/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 10.947770961808882,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 9567,
+                "name": "武汉中影天幕影城",
+                "address": "武汉市汉阳区汉阳大道726号海天欢乐购中影天幕影城5楼",
+                "longitude": 114.21797677313435,
+                "latitude": 30.56906699249425,
+                "gpsAddress": "114.21797677313435:30.56906699249425",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "15549181559",
+                "telephones": [
+                    "15549181559"
+                ],
+                "logoUrl": "",
+                "businessTime": "9:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3760,
+                "Distance": 10.94798493838383,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3692,
+                "name": "汉阳天河电影城",
+                "address": "武汉市汉阳大道687号，汉商21购物娱乐中心三楼",
+                "longitude": 114.21668,
+                "latitude": 30.5661,
+                "gpsAddress": "114.21668:30.5661",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "027-84675900",
+                "telephones": [
+                    "027-84675900"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3692/5db74608f3b613b57bb81c9a982c9c3f.tmp",
+                "businessTime": "10:00-22:30",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2900,
+                "Distance": 11.099716558731112,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8942,
+                "name": "华夏美辰旗舰店",
+                "address": "湖北省武汉市洪山区曙光星城D区购物中心西区2-5层",
+                "longitude": 114.40900066010198,
+                "latitude": 30.488736236459093,
+                "gpsAddress": "114.40900066010198:30.488736236459093",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "telephones": [
+                    ""
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2660,
+                "Distance": 11.167027897200033,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8931,
+                "name": "当代银兴影城",
+                "address": "汉阳区龙阳大道36号大洋百货5层5A-1",
+                "longitude": 114.2153123091612,
+                "latitude": 30.567186220483556,
+                "gpsAddress": "114.2153123091612:30.567186220483556",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "027-84292199",
+                "telephones": [
+                    "027-84292199"
+                ],
+                "logoUrl": "",
+                "businessTime": "9:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3000,
+                "Distance": 11.248761182617232,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 287,
+                "name": "金逸影城王家湾店",
+                "address": "武汉市汉阳区王家湾龙阳大道特6号摩尔城C区5楼",
+                "longitude": 114.21338865977602,
+                "latitude": 30.564940018156854,
+                "gpsAddress": "114.21338865977602:30.564940018156854",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "027-84459599",
+                "telephones": [
+                    "027-84459599"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/287/d14cfdb306f24a0b6313783064c57045.jpg",
+                "businessTime": "10:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3700,
+                "Distance": 11.468722112858986,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2174,
+                "name": "百老汇影城（汉阳人信汇店）",
+                "address": "武汉市汉阳区龙阳大道58号人信汇商业广场A座4楼",
+                "longitude": 114.21322249840924,
+                "latitude": 30.560257825731423,
+                "gpsAddress": "114.21322249840924:30.560257825731423",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "027-84887699",
+                "telephones": [
+                    "027-84887699"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2174/8e5a100a67dce2fe103971baa5e81bdc.tmp",
+                "businessTime": "9:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 11.502938119501044,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7449,
+                "name": "纽宾凯环球影城(芳草路店)",
+                "address": "武汉市汉阳区芳草路97号纽宾凯麦德龙三楼",
+                "longitude": 114.21214703986625,
+                "latitude": 30.539175898252882,
+                "gpsAddress": "114.21214703986625:30.539175898252882",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "027-59261666",
+                "telephones": [
+                    "027-59261666"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7449/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 11.740715389162098,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3387,
+                "name": "恒业影城武汉店",
+                "address": "武汉市洪山区关山大道332号保利广场五层",
+                "longitude": 114.41693895535126,
+                "latitude": 30.494861959585354,
+                "gpsAddress": "114.41693895535126:30.494861959585354",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-87526900/87526901",
+                "telephones": [
+                    "027-87526900/87526901"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3387/906e834eedeae9d663a48d5f43fbea67.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2890,
+                "Distance": 11.892832315485439,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3110,
+                "name": "中影国际影城武汉永旺店",
+                "address": "武汉市经济技术开发区江城大道388号永旺梦乐城B座3楼",
+                "longitude": 114.21256843498098,
+                "latitude": 30.509117177772332,
+                "gpsAddress": "114.21256843498098:30.509117177772332",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420105,
+                "districtName": "汉阳区",
+                "district": {
+                    "districtId": 420105,
+                    "name": "汉阳区"
+                },
+                "phone": "027-84743088",
+                "telephones": [
+                    "027-84743088"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3110/2dffcd54f18204485c3e66c775d0b7b8.jpg",
+                "businessTime": "9：30-23：30",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3000,
+                "Distance": 11.996801338071798,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7475,
+                "name": "百方汇影城(光谷K11店)",
+                "address": "武汉市洪山区东湖新技术开发区关山大道355号3层3-13号",
+                "longitude": 114.418643,
+                "latitude": 30.499063,
+                "gpsAddress": "114.418643:30.499063",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "15802748112",
+                "telephones": [
+                    "15802748112"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7475/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3600,
+                "Distance": 12.00999718907463,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3680,
+                "name": "华谊兄弟武汉影院光谷天地店",
+                "address": "武汉市洪山区关山大道光谷天地F1区3楼",
+                "longitude": 114.41709769491793,
+                "latitude": 30.48279915106152,
+                "gpsAddress": "114.41709769491793:30.48279915106152",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420111,
+                "districtName": "洪山区",
+                "district": {
+                    "districtId": 420111,
+                    "name": "洪山区"
+                },
+                "phone": "027-51779999",
+                "telephones": [
+                    "027-51779999"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3680/c698063a7a5991ed5bf889e2f2fdb4df.tmp",
+                "businessTime": "9:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2900,
+                "Distance": 12.104994038635683,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 4845,
+                "name": "CGV星聚汇影城（武汉凯德西城店）",
+                "address": "武汉市硚口区解放大道十八号凯德广场04层",
+                "longitude": 114.200383,
+                "latitude": 30.604022,
+                "gpsAddress": "114.200383:30.604022",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420104,
+                "districtName": "硚口区",
+                "district": {
+                    "districtId": 420104,
+                    "name": "硚口区"
+                },
+                "phone": "027-83366833",
+                "telephones": [
+                    "027-83366833"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/4845/7a6c881e8de5feb90805ae20fa92ef32.png",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3500,
+                "Distance": 12.935312083603653,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 4842,
+                "name": "武汉风云影城",
+                "address": "江夏区藏龙岛光谷大道百度大厦四楼风云影城",
+                "longitude": 114.430342,
+                "latitude": 30.440047,
+                "gpsAddress": "114.430342:30.440047",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-81782780 ",
+                "telephones": [
+                    "027-81782780 "
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/4842/b2c9e21ed612d7ca8045d863b1f80b9d.jpg",
+                "businessTime": "09:30-24：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 14.262785152045382,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5384,
+                "name": "武汉幻幕影城",
+                "address": "武汉江夏区流芳街武汉工程大学泰塑公寓",
+                "longitude": 114.43857168094752,
+                "latitude": 30.464828789952186,
+                "gpsAddress": "114.43857168094752:30.464828789952186",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-87002719",
+                "telephones": [
+                    "027-87002719"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5384/44fb7c5c613cadd337bf909fca5954ad.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 14.632156004677109,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 4641,
+                "name": "武汉市高德国际影城（藏龙岛店）",
+                "address": "湖北省武汉市江夏区藏龙岛杨桥湖大道13号阳光时尚商业街3楼",
+                "longitude": 114.43402203303113,
+                "latitude": 30.423115087013542,
+                "gpsAddress": "114.43402203303113:30.423115087013542",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-81717666",
+                "telephones": [
+                    "027-81717666"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/4641/9a639c0d809e7470d7bdc09fb8788434.jpg",
+                "businessTime": "09:30-24：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3700,
+                "Distance": 14.98990307786646,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8174,
+                "name": "金逸院线星汇影城(嘉园店)",
+                "address": "武汉市东湖新技术开发区光谷一路12号万科嘉园二期4#、7#商业楼裙楼第三层",
+                "longitude": 114.452314,
+                "latitude": 30.505944,
+                "gpsAddress": "114.452314:30.505944",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420106,
+                "districtName": "武昌区",
+                "district": {
+                    "districtId": 420106,
+                    "name": "武昌区"
+                },
+                "phone": "027-65528982",
+                "telephones": [
+                    "027-65528982"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8174/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+                "businessTime": "9：30-0：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2680,
+                "Distance": 15.540673437576935,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3682,
+                "name": "华谊兄弟武汉影院黄陂店",
+                "address": "武汉黄陂区黄陂大道387号黄陂广场C座",
+                "longitude": 114.38226301700448,
+                "latitude": 30.88657381817751,
+                "gpsAddress": "114.38226301700448:30.88657381817751",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420116,
+                "districtName": "黄陂区",
+                "district": {
+                    "districtId": 420116,
+                    "name": "黄陂区"
+                },
+                "phone": "027-61106297",
+                "telephones": [
+                    "027-61106297"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3682/778233d5d1fcd10549867ae58dc7b028.jpg",
+                "businessTime": "10:00-22:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3690,
+                "Distance": 15.832552701394132,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8837,
+                "name": "唐阁影城黄陂店",
+                "address": "湖北省武汉市黄陂区百锦40号隆汇国贸中心四层",
+                "longitude": 114.38688531537896,
+                "latitude": 30.88105183852667,
+                "gpsAddress": "114.38688531537896:30.88105183852667",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420116,
+                "districtName": "黄陂区",
+                "district": {
+                    "districtId": 420116,
+                    "name": "黄陂区"
+                },
+                "phone": "027-85928511",
+                "telephones": [
+                    "027-85928511"
+                ],
+                "logoUrl": "",
+                "businessTime": "9：00-24：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3420,
+                "Distance": 15.858551305736226,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 2862,
+                "name": "金逸影城IMAX（光美武汉荟聚店）",
+                "address": "湖北省武汉市硚口区长宜路特1号武汉荟聚广场购物中心四楼金逸影城",
+                "longitude": 114.174111,
+                "latitude": 30.623696,
+                "gpsAddress": "114.174111:30.623696",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420104,
+                "districtName": "硚口区",
+                "district": {
+                    "districtId": 420104,
+                    "name": "硚口区"
+                },
+                "phone": "027-83292818",
+                "telephones": [
+                    "027-83292818"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/2862/f6ee879074d528720b7d65b4ae8a7414.png",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 4100,
+                "Distance": 15.93677532441476,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3985,
+                "name": "武汉恒大城影城",
+                "address": "武汉市东西湖区金银湖环湖路43号恒大城影城1号楼三、四层",
+                "longitude": 114.17613002212191,
+                "latitude": 30.664247765105852,
+                "gpsAddress": "114.17613002212191:30.664247765105852",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420112,
+                "districtName": "东西湖区",
+                "district": {
+                    "districtId": 420112,
+                    "name": "东西湖区"
+                },
+                "phone": "暂无",
+                "telephones": [
+                    "暂无"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3985/72d01fd7ae8c4ea96910e1d619b2b5a4.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3300,
+                "Distance": 16.049307242529437,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5380,
+                "name": "银兴影城（湖经店）",
+                "address": "武汉江夏区藏龙岛开发区拓创产业园",
+                "longitude": 114.4398690263413,
+                "latitude": 30.399191421539722,
+                "gpsAddress": "114.4398690263413:30.399191421539722",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "phone": "027-87981288",
+                "telephones": [
+                    "027-87981288"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5380/44fb7c5c613cadd337bf909fca5954ad.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 16.105028401099,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5379,
+                "name": "武汉中南剧场1001天河影院",
+                "address": "武汉江夏区京汉大道1001号（球场横街口，近三阳路口轻轨）",
+                "longitude": 114.36708160048248,
+                "latitude": 30.25248411213425,
+                "gpsAddress": "114.36708160048248:30.25248411213425",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420102,
+                "districtName": "江岸区",
+                "district": {
+                    "districtId": 420102,
+                    "name": "江岸区"
+                },
+                "phone": "027-82837366",
+                "telephones": [
+                    "027-82837366"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5379/44fb7c5c613cadd337bf909fca5954ad.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2880,
+                "Distance": 16.10604829580804,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1201,
+                "name": "大地数字影院--武汉湘隆时代广场店",
+                "address": "武汉市沌口经济技术开发区宁康路湘隆时代广场B1栋5楼 ",
+                "longitude": 114.17483062679494,
+                "latitude": 30.50424457810055,
+                "gpsAddress": "114.17483062679494:30.50424457810055",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420114,
+                "districtName": "蔡甸区",
+                "district": {
+                    "districtId": 420114,
+                    "name": "蔡甸区"
+                },
+                "phone": "027-84478775",
+                "telephones": [
+                    "027-84478775"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1201/9a639c0d809e7470d7bdc09fb8788434.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3000,
+                "Distance": 16.124417275118287,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8941,
+                "name": "银兴国际影城同兴店",
+                "address": "武汉市江夏区流芳路108号同兴生活广场五楼",
+                "longitude": 114.45836612223289,
+                "latitude": 30.437495797912003,
+                "gpsAddress": "114.45836612223289:30.437495797912003",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420115,
+                "districtName": "江夏区",
+                "district": {
+                    "districtId": 420115,
+                    "name": "江夏区"
+                },
+                "telephones": [
+                    ""
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2330,
+                "Distance": 17.14689080987221,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7260,
+                "name": "武汉新港国际影城",
+                "address": "武汉经济技术开发区博学路6号商业楼D栋3楼",
+                "longitude": 114.16175232623118,
+                "latitude": 30.523892366318158,
+                "gpsAddress": "114.16175232623118:30.523892366318158",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420114,
+                "districtName": "蔡甸区",
+                "district": {
+                    "districtId": 420114,
+                    "name": "蔡甸区"
+                },
+                "phone": "027-84737717",
+                "telephones": [
+                    "027-84737717"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7260/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 17.390586773016953,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 881,
+                "name": "金逸影城吴家山店",
+                "address": "武汉市东西湖区吴家山四明路106号北冰洋城市广场4楼",
+                "longitude": 114.14823940210572,
+                "latitude": 30.628577859068198,
+                "gpsAddress": "114.14823940210572:30.628577859068198",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420112,
+                "districtName": "东西湖区",
+                "district": {
+                    "districtId": 420112,
+                    "name": "东西湖区"
+                },
+                "phone": "027-83080026",
+                "telephones": [
+                    "027-83080026"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/881/671f582f5beaf7ec3fb221ccf9393bb5.jpg",
+                "businessTime": "10:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3200,
+                "Distance": 18.822797656529897,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 1812,
+                "name": "武汉华夏世纪影城蔡甸店",
+                "address": "武汉蔡甸凤凰山经济开发区凤凰路1号中核世纪广场4楼",
+                "longitude": 114.06694987791371,
+                "latitude": 30.57007515010958,
+                "gpsAddress": "114.06694987791371:30.57007515010958",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420114,
+                "districtName": "蔡甸区",
+                "district": {
+                    "districtId": 420114,
+                    "name": "蔡甸区"
+                },
+                "phone": "027-69110090",
+                "telephones": [
+                    "027-69110090"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/1812/4a35dfcea0e58b2d3ef913107a6c4ca9.png",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2880,
+                "Distance": 27.750952469627556,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 5430,
+                "name": "武汉阳逻天河国际影城",
+                "address": "武汉市新洲区阳逻街道阳光大道49号3楼",
+                "longitude": 114.574695,
+                "latitude": 30.669125,
+                "gpsAddress": "114.574695:30.669125",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420117,
+                "districtName": "新洲区",
+                "district": {
+                    "districtId": 420117,
+                    "name": "新洲区"
+                },
+                "phone": "027-86981666",
+                "telephones": [
+                    "027-86981666"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/5430/44fb7c5c613cadd337bf909fca5954ad.jpg",
+                "businessTime": "9：00-23：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 4900,
+                "Distance": 29.059928746814162,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 6868,
+                "name": "中影星美浩瀚国际影城常福店",
+                "address": "武汉市蔡甸区常福商务广场1S三楼中影星美浩瀚国际影城",
+                "longitude": 114.050424,
+                "latitude": 30.455631,
+                "gpsAddress": "114.050424:30.455631",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420114,
+                "districtName": "蔡甸区",
+                "district": {
+                    "districtId": 420114,
+                    "name": "蔡甸区"
+                },
+                "phone": "027-69575755",
+                "telephones": [
+                    "027-69575755"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/6868/50f171b46b372348131e8a0bbda66220.jpg",
+                "businessTime": "9:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2690,
+                "Distance": 30.134101887457057,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 6622,
+                "name": "武汉金逸影城蔡甸IMAX店",
+                "address": "武汉市蔡甸区蔡甸街新福路新福茂中央广场第四层",
+                "longitude": 114.038402,
+                "latitude": 30.585928,
+                "gpsAddress": "114.038402:30.585928",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420114,
+                "districtName": "蔡甸区",
+                "district": {
+                    "districtId": 420114,
+                    "name": "蔡甸区"
+                },
+                "phone": "027-69114689",
+                "telephones": [
+                    "027-69114689"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/6622/e17742beed83cd647c22fde4bdb3a2a8.jpg",
+                "businessTime": "10：00-01：00（晚场最后一场电影放映结束）",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3500,
+                "Distance": 30.925131861445365,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 6871,
+                "name": "武汉天河影城（汉南店）",
+                "address": "武汉市汉南区纱帽正街大学城金街商业体3楼",
+                "longitude": 114.058054,
+                "latitude": 30.32797,
+                "gpsAddress": "114.058054:30.32797",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420113,
+                "districtName": "汉南区",
+                "district": {
+                    "districtId": 420113,
+                    "name": "汉南区"
+                },
+                "phone": "027-84851996",
+                "telephones": [
+                    "027-84851996"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/6871/66bf294cc951bf4f73777182954534b4.jpg",
+                "businessTime": "10：00-24：00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2400,
+                "Distance": 30.968819194917582,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 6869,
+                "name": "武汉幸福时代银兴国际影城",
+                "address": "武汉新洲区龙腾大道199号幸福时代百货广场5楼",
+                "longitude": 114.806801,
+                "latitude": 30.832338,
+                "gpsAddress": "114.806801:30.832338",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420117,
+                "districtName": "新洲区",
+                "district": {
+                    "districtId": 420117,
+                    "name": "新洲区"
+                },
+                "phone": "18702750607",
+                "telephones": [
+                    "18702750607"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/6869/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "9:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3420,
+                "Distance": 55.83708762138229,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3368,
+                "name": "武汉新洲摩尔影城",
+                "address": "武汉市新洲区邾城街衡州大道100号摩尔城5楼",
+                "longitude": 114.810133,
+                "latitude": 30.839843,
+                "gpsAddress": "114.810133:30.839843",
+                "cityId": 420100,
+                "cityName": "武汉市",
+                "districtId": 420117,
+                "districtName": "新洲区",
+                "district": {
+                    "districtId": 420117,
+                    "name": "新洲区"
+                },
+                "phone": "027-89203677",
+                "telephones": [
+                    "027-89203677"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/3368/99a035456bed5f207369bba439ce84c6.png",
+                "businessTime": "9：30-0：00(次日)",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3320,
+                "Distance": 56.272947982108,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            }
+        ]
+    },
+    "msg": "ok"
+}

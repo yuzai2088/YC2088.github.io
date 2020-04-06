@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include common %>
+    <title></title>
+</head>
+
+<body>
+    <%- include("header",{title:"home"}) %>
+    <div class="container container-fluid">
+        <h2>公司首页 - <%- title %></h2>
+        <div class="col-md-5">
+            <% if(username){ %>
+            <% if(toggle0){ %>
+            <h2>你好！:<%- username %>&nbsp;&nbsp;&nbsp;管理员
+            </h2>
+            <button type="button" class="btn btn-warning" onclick="location.href='/student'"> 个人中心</button>
+            <button type="button" class="btn btn-primary" onclick="location.href='/logout'"> 注销</button>
+            <% }else if(toggle1){ %>
+            <h5>欢迎你: 教师
+                <span class="text-danger">( <%- username %> / <%- mobile %> )</span>
+            </h5>
+            <button type="button" class="btn btn-warning" onclick="location.href='/teacher'"> 个人中心</button>
+            <button type="button" class="btn btn-primary" onclick="location.href='/logout'"> 注销</button>
+            <% } %>
+
+            <% }else{ %>
+            <button type="button" class="btn btn-warning" onclick="location.href='/login'"> 登录</button>
+            <button type="button" class="btn btn-primary" onclick="location.href='/regist'"> 注册</button>
+            <% } %>
+        </div>
+    </div>
+
+    <div style="display: none;">
+        <!-- Standard button -->
+        <button type="button" class="btn btn-default">（默认样式）Default</button>
+
+        <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+        <button type="button" class="btn btn-primary">（首选项）Primary</button>
+
+        <!-- Indicates a successful or positive action -->
+        <button type="button" class="btn btn-success">（成功）Success</button>
+
+        <!-- Contextual button for informational alert messages -->
+        <button type="button" class="btn btn-info">（一般信息）Info</button>
+
+        <!-- Indicates caution should be taken with this action -->
+        <button type="button" class="btn btn-warning">（警告）Warning</button>
+
+        <!-- Indicates a dangerous or potentially negative action -->
+        <button type="button" class="btn btn-danger">（危险）Danger</button>
+
+        <!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
+        <button type="button" class="btn btn-link">（链接）Link</button>
+    </div>
+
+    <%- include footer %>
+</body>
+
+</html>

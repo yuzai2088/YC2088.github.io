@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include common %>
+    <title>login</title>
+</head>
+
+<body>
+    <%- include("header",{title:"login"}) %>
+    <%- include footer %>
+            <div class="col-md-3">
+                <form style="margin-top: 200px;" class="form-border main" action="/users/login" method="POST">
+                    <div class="form-group">
+                        <label for="mobile">账号:</label>
+                        <input value="<%- mobile %>" type="text" class="form-control" id="mobile" name="mobile"
+                            placeholder="请输入手机号">
+                    </div>
+                    <div class="form-group">
+                        <label for="password">密码:</label>
+                        <input type="password" class="form-control" id="password" name="password" placeholder="请输入密码">
+                    </div>
+                    <div class="form-group">
+                        <label for="toggle0"></label>
+                        <input style="width: 16px;height: 16px;" type="checkbox" name="toggle0" id="toggle0"><span
+                            id="tip" style="color: red;">*我同意公司保密条例协议</span>
+                    </div>
+                    <button type="submit" class="btn btn-info btn-block">登录</button>
+                    <button type="reset" class="btn btn-primary btn-block">重置</button>
+                    <p style="text-align: right; color: red;margin-top: 5px;" class="text-danger pointer"
+                        onclick="location.href='regist'">*没有账号？点击前往注册</p>
+                </form>
+            </div>
+
+        </body>
+        
+<script>
+    $('.form-group').find('input[type=checkbox]').bind('click', function () {
+        var id = $(this).attr("id");
+        if (this.checked) {
+            $(".form-group").find('input[type=checkbox]').not(this).attr("checked", false);
+        }
+    })
+
+    layer.tips('请勾选', '#tip');
+</script>
+
+</html>

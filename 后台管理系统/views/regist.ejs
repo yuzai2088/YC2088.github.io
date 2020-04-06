@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include common %>
+    <title>regist</title>
+</head>
+
+<body>
+    <%- include("header",{title:"regist"}) %>
+    <div class="container container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                <form style="margin-top: 150px;" class="form-border main" action="/users/regist" method="POST">
+                    <div class="form-group">
+                        <label for="mobile">账号:</label>
+                        <input type="tel" class="form-control" id="mobile" placeholder="请输入手机号" name="mobile">
+                    </div>
+                    <div class="form-group">
+                        <label for="mobile">姓名:</label>
+                        <input *type="text" class="form-control" id="username" placeholder="请输入姓名" name="username">
+                    </div>
+                    <div class="form-group">
+                        <label for="password">密码:</label>
+                        <input type="password" class="form-control" id="password" placeholder="请输入密码" name="password">
+                    </div>
+                    <div class="form-group">
+                        <label for="dbpwd">确认密码:</label>
+                        <input type="password" class="form-control" id="dbpwd" placeholder="请确认密码" name="dbpwd">
+                    </div>
+                    <div class="form-group">
+                        <label for="toggle0"></label>
+                        <input style="width: 16px;height: 16px;"  type="checkbox" name="toggle0" id="toggle0" ><span style="color: red;">*我同意公司保密条例协议</span>
+                    </div>
+                    <button type="submit" class="btn btn-danger btn-block">注册</button>
+                    <button type="reset" class="btn btn-success btn-block">重置</button>
+                    <p style= "text-align: right; color: red;margin-top: 5px;" class="text-danger pointer" onclick="location.href='/login'">*已有账号？立即登录</p>
+                </form>
+            </div>
+        </div>
+    </div>
+    <%- include footer %>
+</body>
+    <script>
+        $('.form-group').find('input[type=checkbox]').bind('click', function () {
+            var id = $(this).attr("id");
+            if (this.checked) {
+                $(".form-group").find('input[type=checkbox]').not(this).attr("checked", false);
+            }
+        })
+    </script>
+
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include common %>
+    <title>apply</title>
+    <style>
+        .main {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <%- include("header",{title:"login"}) %>
+    <div class="container container-fluid">
+        <%- include("stu_nav",{type:"add"}) %>
+        <div class="row">
+            <div class="col-md-4">
+                <form action="/student/addinfo" method="POST">
+                    <div class="form-group">
+                        <label for="name">姓名:</label>
+                        <input name="name" type="text" required class="form-control" id="name" placeholder="请输入姓名">
+                    </div>
+                    <div class="form-group">
+                        <label for="job">工号:</label>
+                        <input name="job" type="text" required class="form-control" id="job" placeholder="请输入工号">
+                    </div>
+                    <div class="form-group">
+                        <label for="section">部门:</label>
+                        <input name="section" type="text" required class="form-control" id="section" placeholder="请输入部门">
+                    </div>
+                    <div class="form-group">
+                        <label for="sex">性别:</label>
+                        <input name="sex" type="text" required class="form-control" id="sex" placeholder="请输入性别">
+                    </div>
+                    <div class="form-group">
+                        <label for="age">年龄:</label>
+                        <input name="age" type="text" required class="form-control" id="age" placeholder="请输入年龄">
+                    </div>
+                    <button type="submit" class="btn btn-info">添加</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <%- include footer %>
+</body>
+    <script>
+    </script>
+
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include common %>
+    <title>apply</title>
+    <style>
+        .main {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <%- include("header",{title:"detail"}) %>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 col-lg-6 col-sm-6">
+                <h2 class="text-danger ">详细资料</h2>
+                <div class="thumbnail">
+                    <div class="caption">
+                        <%    result.forEach((item,index)=>{  %>
+                        <img src="/images/qiye.jpg" alt="">
+                        <h4 class="text-primary pull-right">姓名：<%- item.name %></h4>
+                        <h4 class="text-danger ">工号：<%- item.job %></h4>
+                        <p class="text-success">部门: <%- item.section %></p>
+                        <p class="text-info">性别 : <%- item.sex %></p>
+                        <p class="text-warning">年龄 : <%- item.age %></p>
+                        <%    })   %>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 col-sm-6">
+                <h2 class="text-success ">修改信息</h2>
+                <%    result.forEach((item,index)=>{  %>
+                <form action="/users/detail" method="POST">
+                    <div class="form-group">
+                        <label for="name">姓名:</label>
+                        <input name="name" type="text" required class="form-control" id="name" value="<%- item.name %>">
+                    </div>
+                    <div class="form-group">
+                        <label for="job">工号:</label>
+                        <input name="job" type="text" required class="form-control" id="job" value="<%- item.job %>">
+                    </div>
+                    <div class="form-group">
+                        <label for="section">部门:</label>
+                        <input name="section" type="text" required class="form-control" id="section"
+                            value="<%- item.section %>">
+                    </div>
+                    <div class="form-group">
+                        <label for="sex">性别:</label>
+                        <input name="sex" type="text" required class="form-control" id="sex" value="<%- item.sex %>">
+                    </div>
+                    <div class="form-group">
+                        <label for="age">年龄:</label>
+                        <input name="age" type="text" required class="form-control" id="age" value="<%- item.age %>">
+                    </div>
+                    <button type="submit" class="btn btn-info">修改</button>
+                </form>
+                <%    })   %>
+            </div>
+        </div>
+    </div>
+    <%- include footer %>
+</body>
+
+</html>

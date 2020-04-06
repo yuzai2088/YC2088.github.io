@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include common %>
+    <title>changeinfo</title>
+    <style>
+        .main {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <%- include("header",{title:"login"}) %>
+    <div class="container container-fluid">
+        <%- include("stu_nav",{type:"changeinfo"}) %>
+        <div class="row">
+            <div class="col-md-4">
+                <form class="form-border main" action="/student/postinfo" method="POST">
+                    <div class="form-group">
+                        <label for="mobile">账号:</label>
+                        <input disabled value="<%- mobile %>" type="text" class="form-control" id="mobile" name="mobile"
+                            placeholder="请输入手机号">
+                    </div>
+                    <div class="form-group">
+                        <label for="password">用户名:</label>
+                        <input disabled value="<%- username %>" type="text" class="form-control" id="password"
+                            name="password" placeholder="请输入密码">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">邮箱:</label>
+                        <input type="text" class="form-control" id="email" name="email" placeholder="请输入个人邮箱">
+                    </div>
+                    <div class="form-group">
+                        <label for="banji">班级:</label>
+                        <select name="banji" class="form-control">
+                            <option value="">请选择班级</option>
+                            <% classInfo.forEach((item,index)=>{ %>
+                            <option value="<%- item.class_code %>"> <%- item.class_text %></option>
+                            <% }) %>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="md">备注:</label>
+                        <input type="text" class="form-control" id="md" name="md" placeholder="请输入备注">
+                    </div>
+                    <button type="submit" class="btn btn-info btn-block">提交</button>
+                    <button type="reset" class="btn btn-primary btn-block">重置</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <%- include footer %>
+    <script>
+
+    </script>
+</body>
+
+</html>
